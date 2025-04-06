@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c37ed234193a13c",
+  "active": "0b6e0ac6ed0d1d22",
   "lastOpenFiles": [
     "2025-04-06.md",
     "读书/未命名.md",
