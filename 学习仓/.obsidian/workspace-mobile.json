@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "10f705f4b3cd5946",
+    "type": "split",
+    "children": [
+      {
+        "id": "16db80f5bc8f972e",
+        "type": "split",
+        "children": [
+          {
+            "id": "5b15c8ac2d56c789",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3acb646eecf9218e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/知识点/情态动词.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "情态动词"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d0ac957eb6d67d13",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d14ffe7010834825",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of 情态动词"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a35c67951f73b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "284f3f264c74cb04",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "223489a1f8f60788",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "35bf929b8b0750b9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ae4473926888ef37",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6a3baf16335f8b1e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "780bb252b565b0b1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "英语/知识点/情态动词.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f144282e14f5f6e4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2024-6真题.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7390bc721547923f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2024-6真题.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d14ffe7010834825",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "英语/知识点/情态动词.md",
+    "模板/复习.md",
+    "英语/AI说/特殊疑问句.md",
+    "英语/AI说",
+    "英语/课堂笔记/It's a long vacation, and believe it or not, it's in the middle of summer.md",
+    "英语/发现/如何阅读.md",
+    "英语/发现",
+    "认识世界/宗教.md",
+    "1743854080745.jpeg",
+    "认识世界",
+    "2025-04-05.md",
+    "数学/概率论/Untitled-20250405170653.md",
+    "复习",
+    "模板",
+    "Exported image 20250405170704-0.jpeg",
+    "wx_camera_1743828142372.jpg",
+    "数学/高等数学/泰勒展式.md",
+    "英语/试卷/2024-6真题.md",
+    "数学/高等数学/微分方程.md",
+    "数学/高等数学/积分变换.md",
+    "Exported image 20250405170740-0.jpeg",
+    "Exported image 20250405170736-5.png",
+    "Exported image 20250405170734-4.png",
+    "Exported image 20250405170732-3.png",
+    "Exported image 20250405170731-2.jpeg",
+    "Exported image 20250405170729-1.png",
+    "Exported image 20250405170727-0.png",
+    "数学/高等数学/解析解和数值解.md",
+    "数学/高等数学",
+    "数学/线性代数/正定.md",
+    "数学/线性代数/矩阵和基.md",
+    "数学/线性代数/最大无关组.md",
+    "数学/线性代数",
+    "数学/电工电子/直流电和整流电路.md",
+    "数学/电工电子/有效值.md",
+    "数学/电工电子",
+    "数学/概率论",
+    "数学",
+    "英语/综合/Untitled-20250405170641.md",
+    "英语/好句/Well, I suppose turnabout is fair play.md",
+    "英语/听力/go.md",
+    "2025-04-04.md",
+    "英语/知识点/if条件从句.md"
+  ]
+}
