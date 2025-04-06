@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-06.md",
+                "file": "读书/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-06"
+              "title": "未命名"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-04-06.md",
+                "file": "读书/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-06 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-04-06.md",
+                "file": "读书/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-06 的出链列表"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-04-06.md",
+                "file": "读书/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-06 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -183,7 +183,10 @@
   },
   "active": "0c37ed234193a13c",
   "lastOpenFiles": [
+    "2025-04-06.md",
+    "读书/未命名.md",
     "未命名.md",
+    "读书",
     "读书笔记",
     "学习",
     "不要遗忘/电脑快捷键.md",
@@ -197,7 +200,6 @@
     "附件/Exported image 20250405170740-0.jpeg",
     "附件/Exported image 20250405170736-5.png",
     "附件/Exported image 20250405170734-4.png",
-    "2025-04-06.md",
     "数学/概率论/Untitled-20250405170653.md",
     "未命名 1.canvas",
     "使用教程/格式化.md",
