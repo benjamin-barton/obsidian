@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e78091bf25b1ee3",
+        "id": "2a9cd41b61063960",
         "type": "tabs",
         "children": [
           {
-            "id": "958952447bb71958",
+            "id": "0caec5be3e460d0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/软件/revit/虽然没有标注了，但是别忘了一直都是从下往上排的，.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "虽然没有标注了，但是别忘了一直都是从下往上排的，"
+              "title": "New tab"
             }
           }
         ]
@@ -139,16 +135,6 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "96dc49cb36135402",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
     "currentTab": 3
@@ -161,58 +147,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "284f3f264c74cb04",
+  "active": "0caec5be3e460d0f",
   "lastOpenFiles": [
-    "学习/软件/revit/材质.md",
-    "读书/未命名.md",
-    "读书",
+    "修心省身",
+    "行万里路/事上练/真是揪心.md",
+    "行万里路/事上练/激动不能自拔.md",
+    "行万里路/事上练/又开始飘.md",
+    "日记/2025-04-06.md",
+    "行万里路/看这里！/作序.md",
+    "行万里路/事上练/渺小.md",
+    "收藏夹",
+    "行万里路/记住他们",
+    "行万里路/事上练",
+    "行万里路/看这里！",
+    "日记",
+    "读万卷书/学习/软件/revit/虽然没有标注了，但是别忘了一直都是从下往上排的，.md",
+    "行万里路",
+    "读万卷书",
+    "读万卷书/学习/软件/revit/材质.md",
+    "读万卷书/读书/未命名.md",
+    "读万卷书/读书",
     "附件/Exported image 20250404144735-4.png",
     "附件/Exported image 20250404144901-1.png",
     "附件/Exported image 20250404144809-1.png",
-    "学习/软件/latex/三角平方.md",
-    "学习/软件/revit/虽然没有标注了，但是别忘了一直都是从下往上排的，.md",
-    "学习/英语/综合/Untitled-20250405170641.md",
-    "学习/英语/综合",
-    "学习/英语/听力/go.md",
-    "学习/英语/听力",
-    "学习/英语/知识点/情态动词.md",
+    "读万卷书/学习/软件/latex/三角平方.md",
+    "读万卷书/学习/英语/综合/Untitled-20250405170641.md",
+    "读万卷书/学习/英语/综合",
+    "读万卷书/学习/英语/听力/go.md",
+    "读万卷书/学习/英语/听力",
+    "读万卷书/学习/英语/知识点/情态动词.md",
     "附件/Exported image 20250404144852-0.png",
-    "学习/软件/python/字符串.md",
-    "学习/数学/线性代数/矩阵和基.md",
-    "学习/数学/线性代数/最大无关组.md",
-    "学习/软件/revit/剖面.md",
+    "读万卷书/学习/软件/python/字符串.md",
+    "读万卷书/学习/数学/线性代数/矩阵和基.md",
+    "读万卷书/学习/数学/线性代数/最大无关组.md",
+    "读万卷书/学习/软件/revit/剖面.md",
     "附件/Exported image 20250404144836-0.png",
     "附件/Exported image 20250404144829-2.png",
     "附件/屏幕截图 2025-03-29 180153.png",
     "附件/Exported image 20250404144846-0.png",
     "附件/Exported image 20250404144731-0.png",
     "附件/Exported image 20250404144758-0.png",
-    "学习/软件/python/列表.md",
-    "学习/数学/电工电子/有效值.md",
-    "学习/软件/python/格式化.md",
-    "学习/数学/线性代数/正定.md",
-    "学习/数学/线性代数",
-    "学习/英语/知识点/从句.md",
-    "学习/软件/python/快捷键.md",
-    "学习/软件/revit/新版快捷键.md",
-    "学习/软件/revit/轴网立面图.md",
-    "学习/英语/AI说/特殊疑问句.md",
-    "学习/英语/AI说",
-    "学习/英语/试卷/2024-6真题.md",
-    "学习/英语/试卷",
-    "学习/英语/知识点/if条件从句.md",
-    "学习/英语/知识点",
-    "学习/软件/matlab/分式拆分.md",
-    "学习/软件/matlab/绘制函数图像.md",
-    "学习/软件/matlab",
-    "学习/软件/python/matlab和python区别.md",
-    "学习/英语/课堂笔记/It's a long vacation, and believe it or not, it's in the middle of summer.md",
-    "学习/英语/课堂笔记",
-    "学习/英语/好句",
+    "读万卷书/学习/软件/python/列表.md",
+    "读万卷书/学习/数学/电工电子/有效值.md",
+    "读万卷书/学习/软件/python/格式化.md",
+    "读万卷书/学习/数学/线性代数/正定.md",
+    "读万卷书/学习/英语/知识点/从句.md",
+    "读万卷书/学习/软件/python/快捷键.md",
+    "读万卷书/学习/软件/revit/新版快捷键.md",
+    "读万卷书/学习/软件/revit/轴网立面图.md",
     "Untitled.canvas"
   ]
 }
