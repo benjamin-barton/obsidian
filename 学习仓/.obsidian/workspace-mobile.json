@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修心省身/看这里！/作序.md",
-                "mode": "preview",
+                "file": "模板/周末总结.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作序"
+              "title": "周末总结"
             }
           }
         ]
@@ -154,9 +154,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "284f3f264c74cb04",
+  "active": "0caec5be3e460d0f",
   "lastOpenFiles": [
-    "修心省身/看这里！/提上日程",
+    "修心省身/我收下了/作序.md",
+    "模板/周末总结.md",
+    "修心省身/看这里！/作序.md",
+    "修心省身/我收下了",
+    "修心省身/看这里！/就干他了！",
     "修心省身/chase/如何复习.md",
     "读万卷书/复习/作序.md",
     "修心省身/chase/如何复习",
@@ -179,10 +183,7 @@
     "附件/Pasted image 20250406184554.png",
     "修心省身",
     "日记/2025-04-06.md",
-    "修心省身/看这里！/作序.md",
     "行万里路/事上练/渺小.md",
-    "收藏夹",
-    "行万里路/记住他们",
     "读万卷书/学习/软件/revit/虽然没有标注了，但是别忘了一直都是从下往上排的，.md",
     "读万卷书/学习/软件/revit/材质.md",
     "读万卷书/读书/未命名.md",
@@ -201,7 +202,6 @@
     "附件/Exported image 20250404144829-2.png",
     "附件/屏幕截图 2025-03-29 180153.png",
     "附件/Exported image 20250404144846-0.png",
-    "读万卷书/学习/软件/python/列表.md",
     "Untitled.canvas"
   ]
 }
