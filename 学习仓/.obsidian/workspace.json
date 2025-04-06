@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "b63f1daded623d5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd274ff42a7aae13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995bc0929cc87626",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebc7f32ffe85284d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1dfe1af74511eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb51fedcc0157e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "33e18c6d0297a294",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "51618d0d89509008",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "592d139c78915915",
+    "type": "split",
+    "children": [
+      {
+        "id": "a38229b8e0688c6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d104eb1193ad4b3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/电工电子/有效值.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "有效值 的反向链接列表"
+            }
+          },
+          {
+            "id": "7a53fe091e3d81f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-04-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-04-04 的出链列表"
+            }
+          },
+          {
+            "id": "3d9b26b1600dcb38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fcc870cc0ddf3255",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-04-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-04-04 的大纲"
+            }
+          },
+          {
+            "id": "92760d7fc72eb964",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "995bc0929cc87626",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "Exported image 20250404144718-0.jpeg",
+    "2025-04-05.md",
+    "Exported image 20250404144735-4.png",
+    "Exported image 20250404144736-5.png",
+    "Exported image 20250404144739-0.jpeg",
+    "Exported image 20250404144747-0.png",
+    "Exported image 20250404144818-0.png",
+    "Exported image 20250404144810-2.png",
+    "Exported image 20250404144805-0.png",
+    "Exported image 20250404144751-0.png",
+    "Exported image 20250404144734-2.jpeg",
+    "数学/电工电子/有效值.md",
+    "2025-04-04.md",
+    "模板/未命名.md",
+    "模板/llzektorll-BookNotes-0.md",
+    "模板",
+    "使用教程/格式化.md",
+    "使用教程",
+    "数学/概率论/Untitled-20250404144712.md",
+    "软件/matlab/绘制函数图像.md",
+    "软件/matlab/分式拆分.md",
+    "软件/python/进制转换.md",
+    "软件/python/格式化.md",
+    "软件/latex/三角平方.md",
+    "软件/latex/求导.md",
+    "软件/latex/空格.md",
+    "OneNote/复习本/线性代数/Untitled-20250404144546.md",
+    "软件/revit/虽然没有标注了，但是别忘了一直都是从下往上排的，.md",
+    "软件/revit/轴网立面图.md",
+    "软件/revit/多层楼梯还是复制楼梯？.md",
+    "软件/revit/踢面.md",
+    "软件/revit/剖面.md",
+    "软件/revit/待办.md",
+    "软件/revit/新版快捷键.md",
+    "软件/revit",
+    "软件/python/列表.md",
+    "软件/python/前言.md",
+    "软件/python/字符串.md",
+    "软件/python",
+    "软件/matlab",
+    "软件/latex",
+    "软件",
+    "数学/高等数学",
+    "数学/线性代数",
+    "数学/电工电子"
+  ]
+}
