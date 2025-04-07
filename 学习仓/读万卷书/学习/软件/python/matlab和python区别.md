@@ -1,13 +1,13 @@
 Matlab
  
-z=0:100;  
-average(z)  
-function y = average(x)  
-if ~isvector(x)  
-error('input must be a vector')  
-end  
-y=sum(x)/length(x);  
-end
+> z=0:100;  
+> average(z)  
+> function y = average(x)  
+> if ~isvector(x)  
+> error('input must be a vector')  
+> end  
+> y=sum(x)/length(x);  
+> end
  
 Python
  
@@ -24,7 +24,7 @@ print_datetime()
 
 matlab把函数放在后面，python很正常，放前面就行  
 Matlab 一个函数，输出是y 名字叫average，不需要冒号，但要有end  
-Python 定义一个名字叫print-datetime的函数，又冒号，输出放在return里了
+Python 定义一个名字叫print-datetime的函数，有冒号，输出放在return里了
 
 def piece_wise_function(x):  
 if 90<=x<=100:  
