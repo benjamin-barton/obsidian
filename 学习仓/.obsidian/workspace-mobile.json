@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不要迷茫/你平淡了吗？你迷茫了吗？.md",
+                "file": "模板/日记总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你平淡了吗？你迷茫了吗？"
+              "title": "日记总结"
             }
           }
         ],
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "不要迷茫/你平淡了吗？你迷茫了吗？.md",
+            "file": "模板/日记总结.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,8 +172,8 @@
   },
   "active": "cdfdf15976f1876c",
   "lastOpenFiles": [
-    "修心省身/尤为注意/作序.md",
     "不要迷茫/你平淡了吗？你迷茫了吗？.md",
+    "修心省身/尤为注意/作序.md",
     "模板/日记总结.md",
     "读万卷书/学习/英语/英语如何学.md",
     "Untitled.md",
