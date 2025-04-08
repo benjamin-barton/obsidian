@@ -25,17 +25,14 @@
             "id": "cdfdf15976f1876c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 201.4617859165716,
-                  "y": 232.87001728583118,
-                  "zoom": -1.989794414593381
-                }
+                "file": "模板/日记总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "日记总结"
             }
           }
         ],
@@ -175,8 +172,8 @@
   },
   "active": "cdfdf15976f1876c",
   "lastOpenFiles": [
-    "模板/日记总结.md",
     "Untitled.canvas",
+    "模板/日记总结.md",
     "修心省身/fight/Untitled.md",
     "修心省身/尤为注意/作序.md",
     "不要迷茫/你平淡了吗？你迷茫了吗？.md",
