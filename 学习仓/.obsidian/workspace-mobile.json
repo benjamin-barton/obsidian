@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读万卷书/学习/英语/英语总纲.md",
+                "file": "不要迷茫/英语材料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语总纲"
+              "title": "英语材料"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "读万卷书/学习/英语/英语总纲.md",
+            "file": "不要迷茫/英语材料.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,8 +157,8 @@
   },
   "active": "cdfdf15976f1876c",
   "lastOpenFiles": [
-    "不要迷茫/你平淡了吗？你迷茫了吗？.md",
     "读万卷书/学习/英语/英语总纲.md",
+    "不要迷茫/你平淡了吗？你迷茫了吗？.md",
     "不要迷茫/英语材料.md",
     "行万里路/吸收他们/坚持.md",
     "修心省身/过去教训/作序.md",
