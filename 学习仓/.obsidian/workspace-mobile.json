@@ -25,14 +25,17 @@
             "id": "cdfdf15976f1876c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "模板/日记总结.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 201.4617859165716,
+                  "y": 232.87001728583118,
+                  "zoom": -1.989794414593381
+                }
               },
-              "icon": "lucide-file",
-              "title": "日记总结"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -172,8 +175,9 @@
   },
   "active": "cdfdf15976f1876c",
   "lastOpenFiles": [
-    "修心省身/fight/Untitled.md",
     "模板/日记总结.md",
+    "Untitled.canvas",
+    "修心省身/fight/Untitled.md",
     "修心省身/尤为注意/作序.md",
     "不要迷茫/你平淡了吗？你迷茫了吗？.md",
     "读万卷书/学习/英语/英语如何学.md",
@@ -210,14 +214,12 @@
     "附件/Pasted image 20250406184504.png",
     "附件/Pasted image 20250406184554.png",
     "日记/2025-04-06.md",
-    "行万里路/事上练/渺小.md",
     "附件/Exported image 20250404144735-4.png",
     "附件/Exported image 20250404144901-1.png",
     "附件/Exported image 20250404144809-1.png",
     "附件/Exported image 20250404144852-0.png",
     "附件/Exported image 20250404144836-0.png",
     "附件/Exported image 20250404144829-2.png",
-    "附件/屏幕截图 2025-03-29 180153.png",
-    "Untitled.canvas"
+    "附件/屏幕截图 2025-03-29 180153.png"
   ]
 }
