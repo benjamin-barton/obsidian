@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2025-04-09"
             }
+          },
+          {
+            "id": "f182569294fc5c54",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +173,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "788dfb9700d22733",
+  "active": "f182569294fc5c54",
   "lastOpenFiles": [
     "模板/复习.md",
     "读万卷书/复习/2.16概率论.md",
