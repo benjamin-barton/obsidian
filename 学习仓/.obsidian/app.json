@@ -26,7 +26,8 @@
     "editor:cut",
     "editor:copy",
     "editor:paste",
-    "insert-current-date"
+    "insert-current-date",
+    "insert-current-time"
   ],
   "attachmentFolderPath": "附件"
 }
