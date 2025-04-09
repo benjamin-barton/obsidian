@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-04-09"
             }
-          },
-          {
-            "id": "f182569294fc5c54",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +166,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f182569294fc5c54",
+  "active": "788dfb9700d22733",
   "lastOpenFiles": [
+    "日历",
     "模板/复习.md",
     "读万卷书/复习/2.16概率论.md",
     "读万卷书/复习/3.3线性代数.md",
@@ -205,7 +195,6 @@
     "不要迷茫/电影电视剧.md",
     "不要迷茫/警告.md",
     "Untitled.md",
-    "哈哈.md",
     "Untitled.canvas",
     "不要迷茫/Untitled",
     "不要迷茫",
