@@ -11,59 +11,61 @@ Matlab
  
 Python
  
-import datetime  
-def print_datetime():  
-print('task completed')  
-print(datetime.datetime.now())  
-print()
- 
-for x in range(0,10):  
-print(x)  
-print_datetime()
+> import datetime  
+> def print_datetime():  
+> print('task completed')  
+>print(datetime.datetime.now())  
+> print()
+>  
+> for x in range(0,10):  
+> print(x)  
+> print_datetime()
    
 
 matlab把函数放在后面，python很正常，放前面就行  
 Matlab 一个函数，输出是y 名字叫average，不需要冒号，但要有end  
 Python 定义一个名字叫print-datetime的函数，有冒号，输出放在return里了
 
-def piece_wise_function(x):  
-if 90<=x<=100:  
-print(1)  
-elif 80<=x<=90:  
-print(2)  
-elif 60<=x<=80:  
-print(3)  
-elif 0<=x<=60:  
-print(4)  
-else:  
-print(0)  
-return 'ok'  
-print(piece_wise_function(float(input('number'))))
+> def piece_wise_function(x):  
+> if 90<=x<=100:  
+> print(1)  
+> elif 80<=x<=90:  
+> print(2)  
+> elif 60<=x<=80:  
+> print(3)  
+> elif 0<=x<=60:  
+> print(4)  
+> else:  
+> print(0)  
+> return 'ok'  
+> print(piece_wise_function(float(input('number'))))
 
-function y=piece_wise_fun(x)  
-if x>=90 && x<=100  
-y=1;  
-elseif x>=80 && x<=90  
-y=2;  
-elseif x>=60 && x<=80  
-y=3;  
-elseif x>=0 && x<=60  
-y=4;  
-else  
-y=0;  
-end  
-end
+
+
+> function y=piece_wise_fun(x)  
+> if x>=90 && x<=100  
+> y=1;  
+> elseif x>=80 && x<=90  
+> y=2;  
+> elseif x>=60 && x<=80  
+> y=3;  
+> elseif x>=0 && x<=60  
+> y=4;  
+> else  
+> y=0;  
+> end  
+> end
 
 matlab是elseif，函数不缩进，条件也没有冒号，但是不能连着整，完事呢要有end  
 python是elif，得有冒号，不需要end，函数也不需要end，return也是可有可无
 
-name=['张芳睿','张曦元','蔡湘媛']  
-for idex in name:  
-print(idex)
- 
-for idex in range(0,5):  
-print(idex)  
-输出还是没有5
+> name=['张芳睿','张曦元','蔡湘媛']  
+> for idex in name:  
+> print(idex)
+>  
+> for idex in range(0,5):  
+> print(idex)  
+> 输出还是没有5
 
 python依旧要有冒号，列表里的一个个遍历  
 matlab还是没有冒号，他把  
@@ -74,20 +76,24 @@ python想弄数就range创造一个数组
 啊你在数组里头挑，但matlab好像是子功能，他只能是数字，循环几次那种，  
 这么看python>matlab
 
-for i=1:4  
-i  
-end  
+> for i=1:4  
+> i  
+> end  
+
+
 人家matlab实诚，你说哪到哪就是哪到哪
  
-sum=0;  
-for i=1:5  
-sum_in=1;  
-for j=1:i  
-sum_in=sum_in*j;   end  
-sum=sum+sum_in;  
-end  
-Sum  
-阶乘
+> sum=0;  
+> for i=1:5  
+> sum_in=1;  
+> for j=1:i  
+> sum_in=sum_in*j;   
+> end  
+> sum=sum+sum_in;  
+> end  
+> Sum  
+> 阶乘
+
 
 在python里头索引步长被放在了后面，range也是一样
 
