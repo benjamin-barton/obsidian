@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "90b9ca749828dd2b",
+        "id": "3a0f775b2ca4d2d7",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6ded5195f75f5a",
+            "id": "cb0d80bc0657fd23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "不要迷茫/你平淡了吗？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "你平淡了吗？"
+            }
+          },
+          {
+            "id": "08e1d304b5060069",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-11 20.46.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-11 20.46.04.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/日记总结.md",
+                "file": "Excalidraw/Drawing 2025-04-11 20.46.04.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日记总结 的大纲"
+              "title": "Drawing 2025-04-11 20.46.04.excalidraw 的大纲"
             }
           },
           {
@@ -166,6 +183,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "2f72d6238695d7d7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 2
@@ -184,12 +211,19 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b6ded5195f75f5a",
+  "active": "08e1d304b5060069",
   "lastOpenFiles": [
+    "不要迷茫/你平淡了吗？.md",
+    "Excalidraw/Drawing 2025-04-11 20.46.04.excalidraw.md",
+    "Excalidraw",
+    "不要迷茫/书.md",
     "2025-04-11.md",
+    "不要迷茫/你迷茫了吗？.md",
     "行万里路/日记/2025-04-11.md",
     "读万卷书/学习/软件/matlab/绘制函数图像.md",
     "读万卷书/学习/软件/python/列表数组字典.md",
@@ -219,12 +253,7 @@
     "修心省身/尤为注意/请重视",
     "修心省身/尤为注意/作序.md",
     "修心省身/尤为注意",
-    "修心省身/小感/没办法呀我不是一个果断的人.md",
-    "修心省身/小感/原《如何生活》.md",
     "修心省身/小感",
-    "修心省身/人生捷径/背下来.md",
-    "修心省身/人生捷径/Untitled.md",
-    "修心省身/人生捷径",
     "附件/Screenshot_2025-04-07-12-44-40-68_99c04817c0de5652397fc8b56c3b3817.jpg",
     "附件/Pasted image 20250406184554.png",
     "附件/Pasted image 20250406184504.png",
