@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e46144773ec9f0",
+        "id": "90b9ca749828dd2b",
         "type": "tabs",
         "children": [
           {
-            "id": "0c37ed234193a13c",
+            "id": "6b6ded5195f75f5a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c37ed234193a13c",
+  "active": "6b6ded5195f75f5a",
   "lastOpenFiles": [
+    "行万里路/日记/2025-04-11.md",
     "读万卷书/学习/软件/matlab/绘制函数图像.md",
     "读万卷书/学习/软件/python/列表数组字典.md",
     "读万卷书/学习/软件/python/列表.md",
@@ -224,7 +225,6 @@
     "修心省身/人生捷径/Untitled.md",
     "修心省身/人生捷径",
     "修心省身/fight/Untitled.md",
-    "修心省身/chase/一步三算.md",
     "附件/Screenshot_2025-04-07-12-44-40-68_99c04817c0de5652397fc8b56c3b3817.jpg",
     "附件/Pasted image 20250406184554.png",
     "附件/Pasted image 20250406184504.png",
