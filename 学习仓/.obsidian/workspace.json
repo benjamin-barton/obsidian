@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f5d8503ae5d225",
+        "id": "b42860992d421756",
         "type": "tabs",
         "children": [
           {
-            "id": "a373775fad03a442",
+            "id": "987d44780e501338",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-11 20.46.04.excalidraw.md"
+                "file": "行万里路/周末总结/2025/2025学习总纲.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-11 20.46.04.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025学习总纲"
             }
           }
         ]
@@ -178,14 +180,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "527c128b8a7a82e3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +209,11 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a373775fad03a442",
+  "active": "987d44780e501338",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-11 20.46.04.excalidraw.md",
     "2025-04-08.md",
@@ -228,8 +240,8 @@
     "行万里路/日记/2025-04-06.md",
     "行万里路/日记",
     "行万里路/周末总结/2025-W15.md",
-    "行万里路/吸收他们（行动）🌱/坚持.md",
-    "行万里路/吸收他们（行动）🌱",
+    "行万里路/重要（行动）🌱/坚持.md",
+    "行万里路/重要（行动）🌱",
     "行万里路/事上练（问题）🍁/激动不能自拔.md",
     "行万里路/事上练（问题）🍁/真是揪心.md",
     "行万里路/事上练（问题）🍁/渺小.md",
