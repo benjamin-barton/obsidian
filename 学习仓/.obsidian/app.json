@@ -29,5 +29,6 @@
     "insert-current-date",
     "insert-current-time"
   ],
-  "attachmentFolderPath": "附件"
+  "attachmentFolderPath": "附件",
+  "alwaysUpdateLinks": true
 }
