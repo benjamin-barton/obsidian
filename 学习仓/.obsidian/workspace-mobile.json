@@ -57,7 +57,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "搜索"
         }
       },
       {
@@ -72,7 +72,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "Tags"
+          "title": "标签"
         }
       },
       {
@@ -82,7 +82,7 @@
           "type": "bookmarks",
           "state": {},
           "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "title": "书签"
         }
       }
     ],
