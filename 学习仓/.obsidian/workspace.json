@@ -11,14 +11,24 @@
             "id": "7d60cfd57712bab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Clippings/18 Cheat Codes to Life, to Put You 10 Years Ahead of 90% Of People.md",
-                "mode": "source",
-                "source": false
+                "file": "附件/屏幕截图 2025-03-29 120951.png"
               },
-              "icon": "lucide-file",
-              "title": "18 Cheat Codes to Life, to Put You 10 Years Ahead of 90% Of People"
+              "icon": "lucide-image",
+              "title": "屏幕截图 2025-03-29 120951"
+            }
+          },
+          {
+            "id": "809789638b2ef847",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-14 20.57.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-14 20.57.31.excalidraw"
             }
           },
           {
@@ -35,7 +45,8 @@
               "title": "飘"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,15 +238,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d60cfd57712bab0",
+  "active": "809789638b2ef847",
   "lastOpenFiles": [
+    "附件/屏幕截图 2025-03-29 120951.png",
+    "Excalidraw/Drawing 2025-04-14 20.57.31.excalidraw.md",
+    "附件/1743854080745.jpeg",
+    "附件/使用教程/格式化.md",
+    "附件/Exported image 20250404144735-3.png",
+    "附件/Exported image 20250404144736-5.png",
+    "附件/Pasted image 20250414102937.png",
+    "附件/Screenshot_2025-04-07-12-44-40-68_99c04817c0de5652397fc8b56c3b3817.jpg",
     "修心省身/小感/新加坡.md",
+    "附件/wx_camera_1743828142372.jpg",
     "Clippings/18 Cheat Codes to Life, to Put You 10 Years Ahead of 90% Of People.md",
     "Clippings",
     "修心省身/fight/飘.md",
     "修心省身/小感/不要预支快感.md",
     "修心省身/小感/世界赠与我的.md",
-    "附件/Pasted image 20250414102937.png",
     "修心省身/小感/没办法呀我不是一个果断的人.md",
     "读万卷书/学习/英语/记录/2025-03-26.md",
     "不要迷茫/工具.md",
@@ -247,11 +266,6 @@
     "读万卷书/学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_3.jpg",
     "读万卷书/学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_2.jpg",
     "读万卷书/学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_1.jpg",
-    "读万卷书/学习/英语/记录/attachments/d83a44bec41441e7a6e5f7002a224b79_1.jpg",
-    "读万卷书/学习/英语/记录/attachments/a377318a8ead4382a2125372426d4c7f_4.jpg",
-    "读万卷书/学习/英语/记录/attachments/a377318a8ead4382a2125372426d4c7f_3.jpg",
-    "读万卷书/学习/英语/记录/attachments/741621e9a36049f0b45f1641b5600548_1.jpg",
-    "读万卷书/学习/英语/记录/attachments/a377318a8ead4382a2125372426d4c7f_2.jpg",
     "读万卷书/学习/英语/记录/2025-04-01.md",
     "读万卷书/学习/英语/记录/attachments",
     "读万卷书/学习/英语/记录/2025-03-27.md",
@@ -267,9 +281,6 @@
     "Excalidraw",
     "不要迷茫/书.md",
     "不要迷茫/你迷茫了吗？.md",
-    "行万里路/日记/2025-04-11.md",
-    "读万卷书/学习/软件/matlab/绘制函数图像.md",
-    "读万卷书/学习/软件/python/列表数组字典.md",
     "读万卷书/杂",
     "读万卷书/世界知识",
     "行万里路/日记",
