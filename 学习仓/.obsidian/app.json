@@ -31,7 +31,7 @@
     "insert-current-time",
     "editor:toggle-strikethrough"
   ],
-  "attachmentFolderPath": "附件",
+  "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
