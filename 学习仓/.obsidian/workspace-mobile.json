@@ -152,6 +152,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,12 +166,12 @@
   },
   "active": "788dfb9700d22733",
   "lastOpenFiles": [
-    "读万卷书/学习/英语/知识点/五大主句.md",
+    "读万卷书/学习/英语/英语总纲.md",
     "读万卷书/学习/英语/AI说/状语和宾语.md",
+    "读万卷书/学习/英语/知识点/五大主句.md",
     "读万卷书/学习/数学/线性代数/最大无关组.md",
     "读万卷书/学习/英语/AI说/特殊疑问句.md",
     "行万里路/日记/2025-04-06.md",
-    "读万卷书/学习/英语/英语总纲.md",
     "读万卷书/学习/英语/综合/试卷/2024-6真题.md",
     "不要迷茫/工具.md",
     "读万卷书/学习/英语/课堂笔记/It's a long vacation, and believe it or not, it's in the middle of summer.md",
