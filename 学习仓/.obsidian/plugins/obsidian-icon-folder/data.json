@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiApple",
       "LiAtSign",
       "LiAtom",
       "LiBackpack",
-      "LiAward",
-      "LiAxe"
+      "LiAward"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "读万卷书": "LiAward",
   "行万里路": "LiBackpack",
   "修心省身": "LiAtom",
-  "模板": "LiAtSign"
+  "模板": "LiAtSign",
+  "AI说": "LiApple"
 }
