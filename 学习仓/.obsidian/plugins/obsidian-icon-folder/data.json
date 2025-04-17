@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAirplay",
       "LiApple",
       "LiAtSign",
       "LiAtom",
-      "LiBackpack",
-      "LiAward"
+      "LiBackpack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "行万里路": "LiBackpack",
   "修心省身": "LiAtom",
   "模板": "LiAtSign",
-  "AI说": "LiApple"
+  "AI说": "LiApple",
+  "化为己用": "LiAirplay"
 }
