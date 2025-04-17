@@ -29,8 +29,7 @@
     "editor:copy",
     "editor:paste",
     "insert-current-date",
-    "insert-current-time",
-    "editor:toggle-strikethrough"
+    "insert-current-time"
   ],
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
