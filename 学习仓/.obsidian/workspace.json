@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b42860992d421756",
+        "id": "df3da26e7f83151e",
         "type": "tabs",
         "children": [
           {
-            "id": "b881383e6196d494",
+            "id": "bb95651e584f349d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哈哈哈哈.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "哈哈哈哈"
+              "title": "新标签页"
             }
           }
         ]
@@ -196,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b881383e6196d494",
+  "active": "bb95651e584f349d",
   "lastOpenFiles": [
-    "读万卷书/读书/未命名.md",
     "哈哈哈哈.md",
+    "读万卷书/读书/未命名.md",
     "Excalidraw/Drawing 2025-04-15 11.24.06.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "附件/屏幕截图 2025-03-29 180153.png",
