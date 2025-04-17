@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"808590174054683a","x":1437,"y":333,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c60c199bca5ae322","type":"text","text":"# obsidian\n# 化为己用\n周末梳理，放文件夹\n学习收藏，挂标签","x":950,"y":160,"width":250,"height":220,"color":"4"},
 		{"id":"f2510451a7a1b2c7","type":"text","text":"## 稍后阅读\nraindrop——大部分文章和视频\n微信聊天——知乎，微信公众号\nqq聊天——学习上的知识\n留白——学习上的问题","x":928,"y":-214,"width":295,"height":180,"color":"2"},
 		{"id":"df1066296537f226","x":560,"y":90,"width":160,"height":60,"type":"text","text":"此刻日记收藏"},
@@ -9,9 +8,10 @@
 		{"id":"a3a5e5d5c7195346","x":1272,"y":160,"width":250,"height":60,"type":"text","text":"raindrop\n划线标记"},
 		{"id":"dd62262c8a913a76","x":640,"y":570,"width":250,"height":60,"type":"text","text":"book\n泛读"},
 		{"id":"2bc2a733b81d4db9","x":1022,"y":510,"width":250,"height":60,"type":"text","text":"zotero\n精读"},
-		{"id":"17ad3de6f9c1fe6c","x":1500,"y":350,"width":250,"height":60,"type":"text","text":"bilibili\n"},
 		{"id":"3a6e047019bf0f49","type":"text","text":"1.看到好的东西，没时间看——稍后阅读\n2.看完了觉得好——暂存收藏——划线标记\n3.周末梳理：\n\t只是还好——只是收藏\n\t真的很好——化为己用\n4.视频收藏直接原位不变","x":824,"y":-480,"width":448,"height":146},
-		{"id":"b004794551c57d3d","x":1500,"y":450,"width":250,"height":60,"type":"text","text":"youtube"}
+		{"id":"808590174054683a","x":1762,"y":600,"width":363,"height":60,"type":"text","text":"原版的watch water作为一般感兴趣"},
+		{"id":"17ad3de6f9c1fe6c","x":1442,"y":430,"width":250,"height":60,"type":"text","text":"bilibili\n"},
+		{"id":"b004794551c57d3d","x":1442,"y":820,"width":250,"height":60,"type":"text","text":"youtube"}
 	],
 	"edges":[
 		{"id":"ccf7949db81ed9aa","fromNode":"df1066296537f226","fromSide":"right","toNode":"c60c199bca5ae322","toSide":"left"},
@@ -19,6 +19,10 @@
 		{"id":"5d50c76fefe0ce2e","fromNode":"3e5140b20f92c816","fromSide":"bottom","toNode":"a3a5e5d5c7195346","toSide":"top"},
 		{"id":"091f6c5dc30f586f","fromNode":"a3a5e5d5c7195346","fromSide":"left","toNode":"c60c199bca5ae322","toSide":"right"},
 		{"id":"d610d22fd0cb599d","fromNode":"dd62262c8a913a76","fromSide":"right","toNode":"2bc2a733b81d4db9","toSide":"left"},
-		{"id":"0e1fd4d585717d30","fromNode":"2bc2a733b81d4db9","fromSide":"top","toNode":"c60c199bca5ae322","toSide":"bottom"}
+		{"id":"0e1fd4d585717d30","fromNode":"2bc2a733b81d4db9","fromSide":"top","toNode":"c60c199bca5ae322","toSide":"bottom"},
+		{"id":"f146e0e12eeaa526","fromNode":"17ad3de6f9c1fe6c","fromSide":"right","toNode":"808590174054683a","toSide":"left"},
+		{"id":"3db671711e0176f3","fromNode":"b004794551c57d3d","fromSide":"right","toNode":"808590174054683a","toSide":"left"},
+		{"id":"58f84733cee97cd4","fromNode":"b004794551c57d3d","fromSide":"left","toNode":"a3a5e5d5c7195346","toSide":"bottom"},
+		{"id":"70ed0bcc767db74e","fromNode":"17ad3de6f9c1fe6c","fromSide":"left","toNode":"a3a5e5d5c7195346","toSide":"bottom"}
 	]
 }
