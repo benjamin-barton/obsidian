@@ -11,17 +11,14 @@
             "id": "788dfb9700d22733",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "化为己用/碎片信息应对方案.canvas",
-                "viewState": {
-                  "x": 1203.065613643916,
-                  "y": 429.55017137774007,
-                  "zoom": -1.0573055952243147
-                }
+                "file": "AI说/理工/cd.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "碎片信息应对方案"
+              "icon": "lucide-file",
+              "title": "cd"
             }
           }
         ]
@@ -169,8 +166,10 @@
   },
   "active": "788dfb9700d22733",
   "lastOpenFiles": [
-    "AI说/英语/不定式句子成分.md",
     "化为己用/碎片信息应对方案.canvas",
+    "AI说/理工/cd.md",
+    "AI说/理工",
+    "AI说/英语/不定式句子成分.md",
     "AI说/英语/宾补.md",
     "模板/周末总结.md",
     "化为己用/未命名.md",
@@ -209,12 +208,10 @@
     "读万卷书/学习/英语/课堂笔记/It's a long vacation, and believe it or not, it's in the middle of summer.md",
     "读万卷书/学习/英语/综合/Untitled-20250405170641.md",
     "不要迷茫/英语材料.md",
-    "不要迷茫/警告.md",
     "日历",
     "修心省身/人生捷径",
     "Untitled.canvas",
     "不要迷茫/Untitled",
-    "不要迷茫",
-    "修心省身/过去教训"
+    "不要迷茫"
   ]
 }
