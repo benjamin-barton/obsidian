@@ -4,13 +4,15 @@
 		{"id":"3a6e047019bf0f49","type":"text","text":"1.看到好的东西，没时间看——稍后阅读\n2.看完了觉得好——暂存收藏——划线标记\n3.周末梳理：\n\t只是还好——只是收藏\n\t真的很好——化为己用","x":60,"y":-360,"width":448,"height":146},
 		{"id":"c60c199bca5ae322","type":"text","text":"# obsidian\n# 化为己用\n周末梳理，放文件夹\n学习收藏，挂标签","x":950,"y":160,"width":250,"height":220,"color":"4"},
 		{"id":"f2510451a7a1b2c7","type":"text","text":"## 稍后阅读\nraindrop——大部分文章和视频\n微信聊天——知乎，微信公众号\nqq聊天——学习上的知识\n留白——学习上的问题","x":928,"y":-214,"width":295,"height":180,"color":"2"},
-		{"id":"5ac65b88cd6ba232","type":"text","text":"知乎\n自带划线标记","x":1397,"y":-101,"width":250,"height":60,"color":"5"},
-		{"id":"17ad3de6f9c1fe6c","x":1397,"y":60,"width":250,"height":60,"type":"text","text":"bilibili"},
+		{"id":"5ac65b88cd6ba232","type":"text","text":"知乎\n自带划线标记\n\t暂时收藏\n\t只是收藏","x":1397,"y":-101,"width":250,"height":60,"color":"5"},
+		{"id":"17ad3de6f9c1fe6c","x":1397,"y":60,"width":250,"height":60,"type":"text","text":"bilibili\n"},
 		{"id":"3e5140b20f92c816","x":1397,"y":-214,"width":250,"height":60,"type":"text","text":"medium"},
-		{"id":"df1066296537f226","x":1397,"y":-340,"width":250,"height":60,"type":"text","text":"此刻日记收藏"},
 		{"id":"dd62262c8a913a76","x":1397,"y":320,"width":250,"height":60,"type":"text","text":"book\n泛读"},
 		{"id":"2bc2a733b81d4db9","x":1720,"y":320,"width":250,"height":60,"type":"text","text":"zotero\n精读"},
-		{"id":"a3a5e5d5c7195346","x":1800,"y":-124,"width":250,"height":60,"type":"text","text":"raindrop\n划线标记"}
+		{"id":"a3a5e5d5c7195346","x":1800,"y":-124,"width":250,"height":60,"type":"text","text":"raindrop\n划线标记"},
+		{"id":"df1066296537f226","x":560,"y":90,"width":160,"height":60,"type":"text","text":"此刻日记收藏"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ccf7949db81ed9aa","fromNode":"df1066296537f226","fromSide":"right","toNode":"c60c199bca5ae322","toSide":"left"}
+	]
 }
