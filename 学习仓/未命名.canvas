@@ -10,7 +10,7 @@
 		{"id":"df1066296537f226","x":1397,"y":-340,"width":250,"height":60,"type":"text","text":"此刻日记收藏"},
 		{"id":"dd62262c8a913a76","x":1397,"y":320,"width":250,"height":60,"type":"text","text":"book\n泛读"},
 		{"id":"2bc2a733b81d4db9","x":1720,"y":320,"width":250,"height":60,"type":"text","text":"zotero\n精读"},
-		{"id":"a3a5e5d5c7195346","x":1800,"y":-124,"width":250,"height":60,"type":"text","text":"raindrop"}
+		{"id":"a3a5e5d5c7195346","x":1800,"y":-124,"width":250,"height":60,"type":"text","text":"raindrop\n划线标记"}
 	],
 	"edges":[]
 }
