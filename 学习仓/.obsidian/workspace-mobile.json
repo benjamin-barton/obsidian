@@ -11,14 +11,17 @@
             "id": "788dfb9700d22733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "模板/周末总结.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 1167.7735682570446,
+                  "y": 282.31934653143935,
+                  "zoom": -1.6510740064440592
+                }
               },
-              "icon": "lucide-file",
-              "title": "周末总结"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -166,8 +169,9 @@
   },
   "active": "788dfb9700d22733",
   "lastOpenFiles": [
-    "化为己用/未命名.md",
     "模板/周末总结.md",
+    "未命名.canvas",
+    "化为己用/未命名.md",
     "模板/日记总结.md",
     "化为己用",
     "不要迷茫/工具.md",
@@ -206,7 +210,6 @@
     "不要迷茫/警告.md",
     "行万里路/日记/2025-04-14.md",
     "行万里路/日记/2025-04-11.md",
-    "修心省身/小感/原《如何生活》.md",
     "日历",
     "修心省身/人生捷径",
     "Untitled.canvas",
