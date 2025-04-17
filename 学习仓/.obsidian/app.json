@@ -16,6 +16,7 @@
     "editor:undo",
     "editor:redo",
     "editor:insert-horizontal-rule",
+    "editor:follow-link",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
@@ -29,8 +30,7 @@
     "editor:paste",
     "insert-current-date",
     "insert-current-time",
-    "editor:toggle-strikethrough",
-    "editor:follow-link"
+    "editor:toggle-strikethrough"
   ],
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
