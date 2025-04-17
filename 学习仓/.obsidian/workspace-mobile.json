@@ -11,17 +11,14 @@
             "id": "788dfb9700d22733",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 1013.8806587406546,
-                  "y": 181.71332014030008,
-                  "zoom": -1.6510740064440592
-                }
+                "file": "模板/周末总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "周末总结"
             }
           }
         ]
@@ -169,8 +166,8 @@
   },
   "active": "788dfb9700d22733",
   "lastOpenFiles": [
-    "模板/周末总结.md",
     "未命名.canvas",
+    "模板/周末总结.md",
     "化为己用/未命名.md",
     "模板/日记总结.md",
     "化为己用",

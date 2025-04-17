@@ -11,7 +11,8 @@
 		{"id":"3a6e047019bf0f49","type":"text","text":"1.看到好的东西，没时间看——稍后阅读\n2.看完了觉得好——暂存收藏——划线标记\n3.周末梳理：\n\t只是还好——只是收藏\n\t真的很好——化为己用\n4.视频收藏直接原位不变","x":824,"y":-480,"width":448,"height":146},
 		{"id":"808590174054683a","type":"text","text":"原版的watch water作为一般感兴趣","x":1762,"y":600,"width":363,"height":60},
 		{"id":"17ad3de6f9c1fe6c","type":"text","text":"bilibili\n","x":1442,"y":430,"width":250,"height":60},
-		{"id":"b004794551c57d3d","type":"text","text":"youtube","x":1442,"y":820,"width":250,"height":60}
+		{"id":"b004794551c57d3d","type":"text","text":"youtube","x":1442,"y":820,"width":250,"height":60},
+		{"id":"7cdb9205ce2a87d9","x":600,"y":-334,"width":296,"height":169,"type":"text","text":"人就是好一时兴起\n临时起意，突然抽\n风"}
 	],
 	"edges":[
 		{"id":"ccf7949db81ed9aa","fromNode":"df1066296537f226","fromSide":"right","toNode":"c60c199bca5ae322","toSide":"left"},
