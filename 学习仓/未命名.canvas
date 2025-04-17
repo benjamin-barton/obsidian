@@ -7,7 +7,9 @@
 		{"id":"5ac65b88cd6ba232","type":"text","text":"知乎","x":1397,"y":-101,"width":250,"height":60,"color":"5"},
 		{"id":"17ad3de6f9c1fe6c","x":1397,"y":60,"width":250,"height":60,"type":"text","text":"bilibili"},
 		{"id":"3e5140b20f92c816","x":1397,"y":-214,"width":250,"height":60,"type":"text","text":"medium"},
-		{"id":"df1066296537f226","x":1397,"y":-340,"width":250,"height":60,"type":"text","text":"此刻日记收藏"}
+		{"id":"df1066296537f226","x":1397,"y":-340,"width":250,"height":60,"type":"text","text":"此刻日记收藏"},
+		{"id":"dd62262c8a913a76","x":1397,"y":320,"width":250,"height":60,"type":"text","text":"book\n泛读"},
+		{"id":"2bc2a733b81d4db9","x":1720,"y":320,"width":250,"height":60,"type":"text","text":"zotero\n精读"}
 	],
 	"edges":[]
 }
