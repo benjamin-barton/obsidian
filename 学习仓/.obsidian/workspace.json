@@ -11,10 +11,31 @@
             "id": "bb95651e584f349d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 257.39674633510543,
+                  "y": -160.2765293334377,
+                  "zoom": -0.6666666815678283
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "c7d5a3c20e31f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不要迷茫/工具.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "工具"
             }
           }
         ]
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "局部",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +232,12 @@
   },
   "active": "bb95651e584f349d",
   "lastOpenFiles": [
+    "不要迷茫/工具.md",
+    "未命名.canvas",
     "模板/收藏模板.md",
+    "模板/复习.md",
+    "模板/周末总结.md",
+    "模板/日记总结.md",
     "AI说/英语/状语和宾语.md",
     "AI说/英语/特殊疑问句.md",
     "AI说/其他/诗.md",
@@ -237,14 +263,12 @@
     "附件",
     "Excalidraw/Drawing 2025-04-11 20.46.04.excalidraw.md",
     "行万里路/日记/2025-04-09.md",
-    "未命名.canvas",
     "行万里路/日记/2025-04-08.md",
     "attachments/Python语言及其应用 (Bill Lubanovic) (Z-Library).pdf",
     "attachments",
     "不要迷茫/书.md",
     "不要迷茫/电影电视剧.md",
     "不要迷茫/attachments",
-    "不要迷茫/工具.md",
     "读万卷书/学习/英语/知识点/五大主句.md",
     "读万卷书/学习/英语/综合/试卷/2024-6真题.md",
     "读万卷书/学习/英语/综合/听力/go.md",
@@ -254,10 +278,6 @@
     "读万卷书/学习/英语/AI说/状语和宾语.md",
     "行万里路/日记/2025-04-14.md",
     "Excalidraw/Drawing 2025-04-14 20.57.31.excalidraw.md",
-    "attachments/使用教程/格式化.md",
-    "修心省身/小感/新加坡.md",
-    "Clippings/18 Cheat Codes to Life, to Put You 10 Years Ahead of 90% Of People.md",
-    "修心省身/fight/飘.md",
     "未命名 1.canvas"
   ]
 }
