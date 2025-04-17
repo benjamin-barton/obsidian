@@ -13,6 +13,7 @@
     "editor:insert-callout",
     "editor:toggle-blockquote",
     "editor:insert-link",
+    "editor:follow-link",
     "editor:undo",
     "editor:redo",
     "editor:insert-horizontal-rule",
@@ -28,8 +29,7 @@
     "editor:copy",
     "editor:paste",
     "insert-current-date",
-    "insert-current-time",
-    "editor:toggle-strikethrough"
+    "insert-current-time"
   ],
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
