@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2801eaef2820627",
+        "id": "4ac6e3a15494a5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "371f37032e296409",
+            "id": "3b034ac9a15f2ddc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -199,8 +199,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "371f37032e296409",
+  "active": "3b034ac9a15f2ddc",
   "lastOpenFiles": [
+    "AI说/理工/cd.md",
+    "AI说/理工",
+    "化为己用/碎片信息应对方案.canvas",
+    "conflict-files-obsidian-git.md",
+    "AI说/英语/宾补.md",
+    "AI说/英语/不定式句子成分.md",
     "模板/周末总结.md",
     "未命名.canvas",
     "不要迷茫/工具.md",
@@ -221,7 +227,6 @@
     "哈哈哈哈.md",
     "读万卷书/读书/未命名.md",
     "Excalidraw/Drawing 2025-04-15 11.24.06.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "附件/屏幕截图 2025-03-29 180153.png",
     "附件/屏幕截图 2025-03-29 144752.png",
     "附件/屏幕截图 2025-03-29 121829.png",
@@ -243,10 +248,7 @@
     "读万卷书/学习/英语/综合/听力/go.md",
     "读万卷书/学习/英语/综合/发现/如何阅读.md",
     "读万卷书/学习/英语/综合/试卷",
-    "读万卷书/学习/英语/综合/听力",
     "读万卷书/学习/英语/AI说/状语和宾语.md",
-    "行万里路/日记/2025-04-14.md",
-    "Excalidraw/Drawing 2025-04-14 20.57.31.excalidraw.md",
     "未命名 1.canvas"
   ]
 }

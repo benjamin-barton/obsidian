@@ -12,9 +12,9 @@
 		{"id":"808590174054683a","type":"text","text":"原版的watch water作为一般感兴趣","x":1762,"y":600,"width":363,"height":60},
 		{"id":"17ad3de6f9c1fe6c","type":"text","text":"bilibili\n","x":1442,"y":430,"width":250,"height":60},
 		{"id":"b004794551c57d3d","type":"text","text":"youtube","x":1442,"y":820,"width":250,"height":60},
-		{"id":"7cdb9205ce2a87d9","type":"text","text":"人就是好一时兴起\n临时起意，突然抽\n风","x":600,"y":-334,"width":296,"height":169},
-		{"id":"dcb61e16b112fffe","x":1397,"y":585,"width":295,"height":135,"type":"text","text":"看视频大多数是在娱乐：岂不快哉\n"},
-		{"id":"534c9248384cc62d","x":1762,"y":320,"width":250,"height":60,"type":"text","text":"Tik Tok"}
+		{"id":"dcb61e16b112fffe","type":"text","text":"看视频大多数是在娱乐：岂不快哉\n","x":1397,"y":585,"width":295,"height":135},
+		{"id":"534c9248384cc62d","type":"text","text":"Tik Tok","x":1762,"y":320,"width":250,"height":60},
+		{"id":"7cdb9205ce2a87d9","type":"text","text":"人就是好一时兴起\n临时起意，突然抽\n风","x":572,"y":-233,"width":296,"height":169}
 	],
 	"edges":[
 		{"id":"ccf7949db81ed9aa","fromNode":"df1066296537f226","fromSide":"right","toNode":"c60c199bca5ae322","toSide":"left"},
