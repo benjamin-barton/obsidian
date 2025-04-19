@@ -11,10 +11,17 @@
             "id": "3b034ac9a15f2ddc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "化为己用/碎片信息应对方案.canvas",
+                "viewState": {
+                  "x": 1316.5,
+                  "y": 200,
+                  "zoom": -1.0590544260645856
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "碎片信息应对方案"
             }
           }
         ]
@@ -199,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b6e0ac6ed0d1d22",
+  "active": "3b034ac9a15f2ddc",
   "lastOpenFiles": [
     "README_CN.md",
     "AI说/理工/cd.md",
