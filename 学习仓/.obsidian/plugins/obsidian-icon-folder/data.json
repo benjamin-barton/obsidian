@@ -34,10 +34,16 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "模板": "LiAtSign",
+  "模板": {
+    "iconName": "LiAtSign",
+    "iconColor": "#4c8f6e"
+  },
   "AI说": {
     "iconName": "LiAppWindow",
     "iconColor": "#4592b5"
   },
-  "杂": "LiArmchair"
+  "杂": {
+    "iconName": "LiArmchair",
+    "iconColor": "#e85a5a"
+  }
 }
