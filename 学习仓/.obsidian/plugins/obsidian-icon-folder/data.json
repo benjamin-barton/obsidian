@@ -34,9 +34,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "读万卷书": "LiAward",
   "模板": "LiAtSign",
   "AI说": "LiApple",
-  "化为己用": "LiAirplay",
-  "2️⃣行万里路": "LiBackpack"
+  "化为己用": "LiAirplay"
 }
