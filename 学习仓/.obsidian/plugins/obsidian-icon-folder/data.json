@@ -46,5 +46,8 @@
     "iconName": "LiArmchair",
     "iconColor": "#e85a5a"
   },
-  "attachments": "LiBackpack"
+  "attachments": {
+    "iconName": "LiBackpack",
+    "iconColor": "#6c75a6"
+  }
 }
