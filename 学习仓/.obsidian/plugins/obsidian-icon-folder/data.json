@@ -50,5 +50,8 @@
     "iconName": "LiBackpack",
     "iconColor": "#6c75a6"
   },
-  "Excalidraw": "LiAnnoyed"
+  "Excalidraw": {
+    "iconName": "LiAnnoyed",
+    "iconColor": "#ffe30d"
+  }
 }
