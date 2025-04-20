@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/日记总结.md",
+                "file": "2️⃣行万里路/1.日记/2025-04-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记总结"
+              "title": "2025-04-08"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2️⃣行万里路/1.日记/2025-04-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
         }
       },
       {
-        "id": "65f896730eb9205d",
+        "id": "062074ad2d388515",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -164,12 +165,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "788dfb9700d22733",
+  "active": "284f3f264c74cb04",
   "lastOpenFiles": [
+    "模板/日记总结.md",
+    "1️⃣修心省身/5️⃣过去教训/作序.md",
+    "2️⃣行万里路/2.周末总结/2025/W16 4.14-4.20.md",
+    "1️⃣修心省身/3️⃣小感/破防.md",
     "2️⃣行万里路/1.日记/2025-04-19.md",
     "1️⃣修心省身/6️⃣尤为注意/作序.md",
     "1️⃣修心省身/6️⃣尤为注意/我和支书.md",
-    "1️⃣修心省身/5️⃣过去教训/作序.md",
     "2️⃣行万里路/3.重要（行动）/坚持.md",
     "未命名.md",
     "杂",
@@ -189,7 +193,6 @@
     "AI说/英语/不定式句子成分.md",
     "AI说/英语/宾补.md",
     "模板/周末总结.md",
-    "模板/日记总结.md",
     "5️⃣化为己用",
     "模板/收藏模板.md",
     "AI说/其他/诗.md",
@@ -197,8 +200,6 @@
     "AI说/英语",
     "AI说/英语/状语和宾语.md",
     "2️⃣行万里路/1.日记/2025-04-08.md",
-    "Excalidraw/Drawing 2025-04-15 11.24.06.excalidraw.md",
-    "2️⃣行万里路/1.日记/2025-04-09.md",
     "attachments/Exported image 20250404144732-1.png",
     "attachments/Exported image 20250405170727-0.png",
     "attachments/Exported image 20250405170740-0.jpeg",
