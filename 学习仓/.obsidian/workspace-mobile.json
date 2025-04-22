@@ -130,6 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "1️⃣修心省身/3️⃣小感/作息.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -159,7 +160,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +176,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "788dfb9700d22733",
+  "active": "14f2bb2cdb5240de",
   "lastOpenFiles": [
     "1️⃣修心省身/1️⃣fight/飘.md",
     "1️⃣修心省身/3️⃣小感/作息.md",
