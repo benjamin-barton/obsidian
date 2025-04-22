@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAward",
+      "LiAlbum",
       "LiAirplay",
       "LiApple",
-      "LiAtSign",
-      "LiAtom",
-      "LiBackpack"
+      "LiAtSign"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,6 +36,24 @@
   },
   "不要迷茫": "LiAxe",
   "读万卷书": "LiAward",
-  "模板": "LiAtSign",
-  "AI说": "LiApple"
+  "模板": {
+    "iconName": "LiAtSign",
+    "iconColor": "#5a65b8"
+  },
+  "AI说": {
+    "iconName": "LiApple",
+    "iconColor": "#1ea5c7"
+  },
+  "attachments": {
+    "iconName": "LiAtom",
+    "iconColor": "#ffe626"
+  },
+  "Excalidraw": {
+    "iconName": "LiAlbum",
+    "iconColor": "#ff6647"
+  },
+  "杂": {
+    "iconName": "LiAward",
+    "iconColor": "#60d63c"
+  }
 }
