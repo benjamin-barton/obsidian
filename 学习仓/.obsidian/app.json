@@ -11,6 +11,7 @@
     "editor:insert-callout",
     "editor:toggle-blockquote",
     "editor:insert-link",
+    "markdown:add-metadata-property",
     "editor:follow-link",
     "editor:undo",
     "editor:redo",
