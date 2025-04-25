@@ -30,7 +30,12 @@
     "editor:insert-codeblock",
     "editor:cut",
     "editor:copy",
-    "editor:paste"
+    "editor:paste",
+    "highlightr-plugin:Blue",
+    "highlightr-plugin:unhighlight",
+    "colored-text:remove-color",
+    "colored-text:color-text",
+    "highlightr-plugin:Green"
   ],
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
