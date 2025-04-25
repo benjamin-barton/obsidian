@@ -167,8 +167,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -199,12 +199,20 @@
       "command-palette:打开命令面板": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3b034ac9a15f2ddc",
+  "active": "0b6e0ac6ed0d1d22",
   "lastOpenFiles": [
+    "3️⃣读万卷书/3.复习/4.23积分.md",
+    "2️⃣行万里路/1.日记/2025-04-24.md",
+    "2️⃣行万里路/1.日记/2025-04-23.md",
+    "1️⃣修心省身/3️⃣小感/周期.md",
+    "1️⃣修心省身/3️⃣小感/光荣与梦想.md",
+    "1️⃣修心省身/3️⃣小感/2.23.md",
+    "2️⃣行万里路/1.日记/2025-04-22.md",
+    "2️⃣行万里路/1.日记/2025-04-20.md",
+    "1️⃣修心省身/2️⃣chase/学英语.md",
     "AI说/英语/状语和宾语.md",
     "AI说/英语/特殊疑问句.md",
     "AI说/英语/as.md",
@@ -226,23 +234,14 @@
     "2️⃣行万里路/3.重要（行动）/坚持.md",
     "2️⃣行万里路/1.日记/2025-04-19.md",
     "2️⃣行万里路/1.日记/2025-04-16.md",
-    "2️⃣行万里路/1.日记/2025-04-14.md",
-    "2️⃣行万里路/1.日记/2025-04-11.md",
-    "2️⃣行万里路/1.日记/2025-04-09.md",
-    "2️⃣行万里路/1.日记/2025-04-08.md",
-    "2️⃣行万里路/1.日记/2025-04-06.md",
     "2️⃣行万里路/4.事上练（问题）",
     "2️⃣行万里路/3.重要（行动）",
     "2️⃣行万里路/2.周末总结",
     "2️⃣行万里路/1.日记",
     "2️⃣行万里路",
-    "杂/工具.md",
     "杂",
     "5️⃣化为己用/碎片信息应对方案.canvas",
     "5️⃣化为己用",
-    "4️⃣不要迷茫/想做的事/电影电视剧.md",
-    "4️⃣不要迷茫/想做的事/书.md",
-    "4️⃣不要迷茫/3️⃣警告.md",
     "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_4.jpg",
     "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_3.jpg",
     "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_2.jpg",
