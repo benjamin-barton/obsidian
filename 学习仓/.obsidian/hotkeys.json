@@ -32,13 +32,33 @@
       "key": "Q"
     }
   ],
+  "workspace:new-tab": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "app:open-help": [],
+  "workspace:close": [],
   "editor:insert-callout": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "T"
+      "key": "W"
     }
   ],
-  "workspace:new-tab": []
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }
