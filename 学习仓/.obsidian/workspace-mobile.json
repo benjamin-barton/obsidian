@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "收藏",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6a3baf16335f8b1e",
@@ -176,7 +176,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "284f3f264c74cb04",
+  "active": "223489a1f8f60788",
   "lastOpenFiles": [
     "AI说/英语/赞同.md",
     "1️⃣修心省身/3️⃣小感/佛法讨论.md",
