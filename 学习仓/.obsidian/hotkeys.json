@@ -60,5 +60,22 @@
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": []
+  "markdown:toggle-preview": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ]
 }
