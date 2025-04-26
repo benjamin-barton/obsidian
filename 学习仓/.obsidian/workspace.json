@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4️⃣不要迷茫/锦囊/不想学习.md",
+                "file": "4️⃣不要迷茫/锦囊妙计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不想学习"
+              "title": "锦囊妙计"
             }
           },
           {
-            "id": "7a4724b70134a0fe",
+            "id": "9fb67e2b613f8c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣修心省身/3️⃣我有所感事/看世界/执着.md",
+                "file": "4️⃣不要迷茫/锦囊/1️⃣你平淡了吗？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "执着"
+              "title": "1️⃣你平淡了吗？"
+            }
+          },
+          {
+            "id": "8f6accafc8c313e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4️⃣不要迷茫/锦囊/3️⃣警告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3️⃣警告"
             }
           }
         ]
@@ -156,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4️⃣不要迷茫/锦囊/不想学习.md",
+                "file": "4️⃣不要迷茫/锦囊妙计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "不想学习 的大纲"
+              "title": "锦囊妙计 的大纲"
             }
           },
           {
@@ -217,7 +231,25 @@
   },
   "active": "3b034ac9a15f2ddc",
   "lastOpenFiles": [
+    "4️⃣不要迷茫/锦囊/不想学习.md",
+    "4️⃣不要迷茫/锦囊/1️⃣你平淡了吗？.md",
+    "4️⃣不要迷茫/锦囊/3️⃣警告.md",
+    "4️⃣不要迷茫/锦囊/英语.md",
+    "4️⃣不要迷茫/锦囊/2️⃣你迷茫了吗？.md",
+    "3️⃣读万卷书/2.学习/英语/英语总纲.md",
+    "1️⃣修心省身/6️⃣尤为注意/我和支书.md",
+    "1️⃣修心省身/6️⃣尤为注意/作息.md",
+    "1️⃣修心省身/2️⃣chase/学英语.md",
     "4️⃣不要迷茫/锦囊妙计.md",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213607.png",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213353.png",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213322.png",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213254.png",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213232.png",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213215.png",
+    "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213134.png",
+    "4️⃣不要迷茫/锦囊/attachments",
+    "1️⃣修心省身/3️⃣我有所感事/小感/光荣与梦想.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/支书.md",
     "1️⃣修心省身/3️⃣我有所感事/看世界/执着.md",
     "1️⃣修心省身/3️⃣我有所感事/看世界/佛法讨论.md",
@@ -235,18 +267,8 @@
     "AI说/其他/诗.md",
     "1️⃣修心省身/1️⃣fight/尤其爱表现.md",
     "1️⃣修心省身/2️⃣chase/知幻即离，不做方便.md",
-    "2️⃣行万里路/1.日记/2025-04-16.md",
-    "4️⃣不要迷茫/锦囊/不想学习.md",
     "未命名.canvas",
-    "4️⃣不要迷茫/锦囊/1️⃣你平淡了吗？.md",
     "4️⃣不要迷茫/锦囊",
-    "4️⃣不要迷茫/锦囊/2️⃣你迷茫了吗？.md",
-    "AI说/英语/赞同.md",
-    "AI说/英语/as.md",
-    "3️⃣读万卷书/3.复习/4.23积分.md",
-    "2️⃣行万里路/1.日记/2025-04-24.md",
-    "2️⃣行万里路/1.日记/2025-04-23.md",
-    "1️⃣修心省身/3️⃣我有所感事/小感/光荣与梦想.md",
     "AI说/英语/as",
     "5️⃣化为己用/好文",
     "1️⃣修心省身/3️⃣我有所感事/attachments/Camera_XHS_17452433444311040g00831e09i3be0c3041fpaqm6hkblgha7ho0.jpg",
@@ -254,17 +276,9 @@
     "2️⃣行万里路/4.事上练（问题）",
     "2️⃣行万里路/3.重要（行动）",
     "2️⃣行万里路/2.周末总结",
-    "2️⃣行万里路/1.日记",
     "5️⃣化为己用/碎片信息应对方案.canvas",
     "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_4.jpg",
     "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_3.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_2.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/dd0a6acfee604ebf905269cc472da591_1.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/d83a44bec41441e7a6e5f7002a224b79_1.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/a377318a8ead4382a2125372426d4c7f_4.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/a377318a8ead4382a2125372426d4c7f_3.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/a377318a8ead4382a2125372426d4c7f_2.jpg",
-    "3️⃣读万卷书/2.学习/英语/记录/attachments/43a359deeb02454ea1bb20ee6929e2ac_1.jpg",
     "化为己用/碎片信息应对方案.canvas",
     "未命名 1.canvas"
   ]
