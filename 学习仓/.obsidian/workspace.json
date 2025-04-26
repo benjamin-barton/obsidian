@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣修心省身/3️⃣小感/执着.md",
+                "file": "1️⃣修心省身/3️⃣小感/周期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "执着"
-            }
-          },
-          {
-            "id": "674dda7e6c931896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1️⃣修心省身/3️⃣小感/佛法讨论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "佛法讨论"
+              "title": "周期"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣修心省身/1️⃣fight/尤其爱表现.md",
+                "file": "AI说/其他/执着.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "尤其爱表现"
+              "title": "执着"
             }
           }
         ]
@@ -106,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50585556030273,
-    "collapsed": true
+    "width": 218.50585556030273
   },
   "right": {
     "id": "e205a8b87630176c",
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1️⃣修心省身/3️⃣小感/执着.md",
+                "file": "1️⃣修心省身/3️⃣小感/周期.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "执着 的大纲"
+              "title": "周期 的大纲"
             }
           },
           {
@@ -234,7 +219,13 @@
   "lastOpenFiles": [
     "1️⃣修心省身/3️⃣小感/支书.md",
     "1️⃣修心省身/3️⃣小感/执着.md",
+    "AI说/其他/执着.md",
+    "2️⃣行万里路/1.日记/2025-04-14.md",
+    "2️⃣行万里路/1.日记/2025-04-09.md",
+    "2️⃣行万里路/1.日记/2025-04-08.md",
+    "2️⃣行万里路/1.日记/2025-04-11.md",
     "1️⃣修心省身/3️⃣小感/佛法讨论.md",
+    "AI说/其他/诗.md",
     "1️⃣修心省身/1️⃣fight/尤其爱表现.md",
     "1️⃣修心省身/2️⃣chase/知幻即离，不做方便.md",
     "2️⃣行万里路/1.日记/2025-04-16.md",
@@ -254,14 +245,8 @@
     "1️⃣修心省身/3️⃣小感/2.23.md",
     "2️⃣行万里路/1.日记/2025-04-22.md",
     "2️⃣行万里路/1.日记/2025-04-20.md",
-    "1️⃣修心省身/2️⃣chase/学英语.md",
-    "AI说/英语/状语和宾语.md",
-    "AI说/英语/特殊疑问句.md",
-    "模板/周末总结.md",
     "AI说/英语/as",
-    "5️⃣化为己用/好文/未命名.md",
     "5️⃣化为己用/好文",
-    "1️⃣修心省身/6️⃣尤为注意/作息.md",
     "1️⃣修心省身/3️⃣小感/attachments/Camera_XHS_17452433444311040g00831e09i3be0c3041fpaqm6hkblgha7ho0.jpg",
     "1️⃣修心省身/3️⃣小感/attachments",
     "2️⃣行万里路/4.事上练（问题）",
