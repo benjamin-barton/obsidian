@@ -1,10 +1,11 @@
 [
   "obsidian-importer",
-  "obsidian-mind-map",
   "tag-wrangler",
   "obsidian-git",
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "calendar"
+  "calendar",
+  "highlightr-plugin",
+  "buttons"
 ]

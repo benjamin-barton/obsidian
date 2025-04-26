@@ -28,9 +28,15 @@
     "editor:configure-toolbar",
     "editor:insert-table",
     "editor:insert-codeblock",
+    "highlightr-plugin:Green",
     "editor:cut",
     "editor:copy",
-    "editor:paste"
+    "editor:paste",
+    "highlightr-plugin:Blue",
+    "highlightr-plugin:unhighlight",
+    "colored-text:remove-color",
+    "colored-text:color-text",
+    "colored-text:change-colored-text-mode"
   ],
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
