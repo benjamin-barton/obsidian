@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "佛法讨论"
             }
+          },
+          {
+            "id": "709d27c017af241d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3b034ac9a15f2ddc",
+  "active": "709d27c017af241d",
   "lastOpenFiles": [
     "AI说/英语/赞同.md",
     "1️⃣修心省身/3️⃣小感/支书.md",
