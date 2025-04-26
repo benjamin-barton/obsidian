@@ -31,5 +31,14 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
 }
