@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣修心省身/3️⃣小感/支书.md",
+                "file": "1️⃣修心省身/3️⃣小感/执着.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "支书"
+              "title": "执着"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "收藏",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50585556030273
+    "width": 218.50585556030273,
+    "collapsed": true
   },
   "right": {
     "id": "e205a8b87630176c",
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1️⃣修心省身/3️⃣小感/支书.md",
+                "file": "1️⃣修心省身/3️⃣小感/执着.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "支书 的大纲"
+              "title": "执着 的大纲"
             }
           },
           {
@@ -231,9 +232,10 @@
   },
   "active": "3b034ac9a15f2ddc",
   "lastOpenFiles": [
-    "1️⃣修心省身/1️⃣fight/尤其爱表现.md",
     "1️⃣修心省身/3️⃣小感/支书.md",
+    "1️⃣修心省身/3️⃣小感/执着.md",
     "1️⃣修心省身/3️⃣小感/佛法讨论.md",
+    "1️⃣修心省身/1️⃣fight/尤其爱表现.md",
     "1️⃣修心省身/2️⃣chase/知幻即离，不做方便.md",
     "2️⃣行万里路/1.日记/2025-04-16.md",
     "4️⃣不要迷茫/锦囊妙计.md",
@@ -260,7 +262,6 @@
     "5️⃣化为己用/好文/未命名.md",
     "5️⃣化为己用/好文",
     "1️⃣修心省身/6️⃣尤为注意/作息.md",
-    "1️⃣修心省身/3️⃣小感/作息.md",
     "1️⃣修心省身/3️⃣小感/attachments/Camera_XHS_17452433444311040g00831e09i3be0c3041fpaqm6hkblgha7ho0.jpg",
     "1️⃣修心省身/3️⃣小感/attachments",
     "2️⃣行万里路/4.事上练（问题）",
