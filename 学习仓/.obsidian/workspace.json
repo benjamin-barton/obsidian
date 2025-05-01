@@ -11,17 +11,14 @@
             "id": "5107afe610298247",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 545.8310656966762,
-                  "y": -27.472231459882437,
-                  "zoom": -0.6666666815678283
-                }
+                "file": "4️⃣不要迷茫/锦囊妙计.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "锦囊妙计"
             }
           }
         ]
@@ -207,6 +204,9 @@
   },
   "active": "5107afe610298247",
   "lastOpenFiles": [
+    "未命名.md",
+    "4️⃣不要迷茫/锦囊妙计.md",
+    "未命名.canvas",
     "attachments/屏幕截图 2025-04-27 220740.png",
     "attachments/屏幕截图 2025-04-27 220714.png",
     "attachments/屏幕截图 2025-04-27 215909.png",
@@ -217,10 +217,7 @@
     "attachments/Exported image 20250405170740-0.jpeg",
     "attachments/Pasted image 20250404150505.png",
     "attachments/Pasted image 20250406184504.png",
-    "attachments/Pasted image 20250427215823.png",
-    "未命名.canvas",
     "1️⃣修心省身/3️⃣我有所感事/小感/大话西游 苏乞儿.md",
-    "未命名.md",
     "杂/看板/未命名.canvas",
     "1️⃣修心省身/3️⃣我有所感事/小感/表演型人格.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/和summer的五百天.md",
@@ -242,7 +239,6 @@
     "杂/看板/4.26思考.canvas",
     "4️⃣不要迷茫/锦囊/你平淡了吗？.md",
     "杂/看板",
-    "4️⃣不要迷茫/锦囊妙计.md",
     "4️⃣不要迷茫/锦囊/英语.md",
     "4️⃣不要迷茫/锦囊/你迷茫了吗？.md",
     "4️⃣不要迷茫/锦囊/警告.md",
