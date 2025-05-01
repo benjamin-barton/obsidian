@@ -85,5 +85,13 @@
       ],
       "key": "B"
     }
+  ],
+  "markdown:edit-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

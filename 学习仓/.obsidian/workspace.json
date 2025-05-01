@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5️⃣化为己用/收藏夹.md",
+                "file": "模板/默认.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "收藏夹"
+              "title": "默认"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5️⃣化为己用/收藏夹.md",
+                "file": "模板/默认.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "收藏夹 的大纲"
+              "title": "默认 的大纲"
             }
           },
           {
@@ -204,8 +204,10 @@
   },
   "active": "ddf644df54febfe4",
   "lastOpenFiles": [
-    "未命名.md",
+    "杂/快捷键.md",
+    "模板/默认.md",
     "5️⃣化为己用/收藏夹.md",
+    "未命名.md",
     "1️⃣修心省身/1️⃣fight/表现.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/支书.md",
     "4️⃣不要迷茫/锦囊妙计.md",
@@ -244,8 +246,6 @@
     "4️⃣不要迷茫/锦囊/英语.md",
     "4️⃣不要迷茫/锦囊/你迷茫了吗？.md",
     "4️⃣不要迷茫/锦囊/警告.md",
-    "4️⃣不要迷茫/锦囊/不想学习.md",
-    "3️⃣读万卷书/2.学习/英语/英语总纲.md",
     "4️⃣不要迷茫/锦囊/attachments",
     "1️⃣修心省身/3️⃣我有所感事/小感",
     "1️⃣修心省身/3️⃣我有所感事/看世界",
