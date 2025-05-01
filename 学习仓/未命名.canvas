@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6fbef11a8118de83","type":"file","file":"attachments/Pasted image 20250427215823.png","x":-41,"y":-77,"width":375,"height":400},
+		{"id":"c9b4f974555be0c6","type":"file","file":"attachments/屏幕截图 2025-04-27 215909.png","x":480,"y":-217,"width":400,"height":281},
+		{"id":"9e34fcccf7ac9e8f","type":"file","file":"attachments/屏幕截图 2025-04-27 220714.png","x":485,"y":134,"width":377,"height":400},
+		{"id":"256e59b7e2877733","type":"file","file":"attachments/屏幕截图 2025-04-27 220740.png","x":-66,"y":-514,"width":400,"height":297}
+	],
+	"edges":[]
+}
