@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6696a6f94dc3a619",
+        "id": "02bbef46b18593bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5107afe610298247",
+            "id": "ddf644df54febfe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4️⃣不要迷茫/锦囊妙计.md",
+                "file": "5️⃣化为己用/收藏夹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "锦囊妙计"
-            }
-          },
-          {
-            "id": "6784e6b650adc4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "收藏夹"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "5️⃣化为己用/收藏夹.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "收藏夹 的大纲"
             }
           },
           {
@@ -213,14 +198,16 @@
       "command-palette:打开命令面板": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "6784e6b650adc4d7",
+  "active": "ddf644df54febfe4",
   "lastOpenFiles": [
+    "未命名.md",
+    "5️⃣化为己用/收藏夹.md",
     "1️⃣修心省身/1️⃣fight/表现.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/支书.md",
-    "未命名.md",
     "4️⃣不要迷茫/锦囊妙计.md",
     "未命名.canvas",
     "attachments/屏幕截图 2025-04-27 220740.png",
@@ -259,7 +246,6 @@
     "4️⃣不要迷茫/锦囊/警告.md",
     "4️⃣不要迷茫/锦囊/不想学习.md",
     "3️⃣读万卷书/2.学习/英语/英语总纲.md",
-    "1️⃣修心省身/6️⃣当下之事/我和支书.md",
     "4️⃣不要迷茫/锦囊/attachments",
     "1️⃣修心省身/3️⃣我有所感事/小感",
     "1️⃣修心省身/3️⃣我有所感事/看世界",
