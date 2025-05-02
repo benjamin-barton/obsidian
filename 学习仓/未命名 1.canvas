@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8b8a9c9a505b42d8","x":-260,"y":-100,"width":250,"height":60,"type":"text","text":"两个端点"},
+		{"id":"deecbf5f5d2e3197","x":-260,"y":0,"width":250,"height":60,"type":"text","text":"可导点"},
+		{"id":"73be7f4ec1c1fc93","x":140,"y":60,"width":120,"height":60,"color":"5","type":"text","text":"#### 极值"},
+		{"id":"c36dc2e91127a030","x":-460,"y":0,"width":120,"height":60,"color":"4","type":"text","text":"#### 最值"},
+		{"id":"95c0de0449125f87","x":-260,"y":120,"width":250,"height":60,"type":"text","text":"不可导点"}
+	],
+	"edges":[
+		{"id":"265c0b4f53dd31b2","fromNode":"c36dc2e91127a030","fromSide":"right","toNode":"8b8a9c9a505b42d8","toSide":"left"},
+		{"id":"c751658ab2b5eac9","fromNode":"c36dc2e91127a030","fromSide":"right","toNode":"deecbf5f5d2e3197","toSide":"left"},
+		{"id":"81a521211cc17de2","fromNode":"c36dc2e91127a030","fromSide":"right","toNode":"95c0de0449125f87","toSide":"left"},
+		{"id":"3551e1063a7bfe17","fromNode":"73be7f4ec1c1fc93","fromSide":"left","toNode":"deecbf5f5d2e3197","toSide":"right"},
+		{"id":"df69fcd46058264f","fromNode":"73be7f4ec1c1fc93","fromSide":"left","toNode":"95c0de0449125f87","toSide":"right"}
+	]
+}
