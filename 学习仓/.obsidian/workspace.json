@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "极限.md",
+                "file": "寻找最值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "极限"
+              "title": "寻找最值"
             }
           },
           {
@@ -32,21 +32,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-05-02 10.50.38.excalidraw"
             }
-          },
-          {
-            "id": "9208492ca9b3d62e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-02 10.50.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-02 10.50.38.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,14 +214,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f67c3b764b39be3c",
+  "active": "e3cc9ada67df3f82",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250503104357.png",
+    "极限.md",
+    "Excalidraw/Drawing 2025-05-02 10.50.38.excalidraw.md",
     "寻找最值.md",
     "attachments/Pasted image 20250502113030.png",
     "未命名 1.canvas",
-    "Excalidraw/Drawing 2025-05-02 10.50.38.excalidraw.md",
     "attachments/Pasted image 20250502110040.png",
-    "极限.md",
     "attachments/Pasted image 20250502105610.png",
     "未命名.canvas",
     "杂/快捷键.md",
