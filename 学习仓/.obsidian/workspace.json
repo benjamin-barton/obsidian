@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "f67c3b764b39be3c",
+            "id": "1f1fc634aea27a6a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-02 10.50.38.excalidraw.md"
+                "file": "极限.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-02 10.50.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "极限"
             }
           }
         ]
@@ -217,11 +219,13 @@
   },
   "active": "e3cc9ada67df3f82",
   "lastOpenFiles": [
-    "杂/快捷键.md",
-    "寻找最值.md",
-    "attachments/Pasted image 20250503104357.png",
+    "attachments/屏幕截图 2025-05-03 122744.png",
+    "attachments/屏幕截图 2025-05-03 122714.png",
     "极限.md",
+    "寻找最值.md",
     "Excalidraw/Drawing 2025-05-02 10.50.38.excalidraw.md",
+    "杂/快捷键.md",
+    "attachments/Pasted image 20250503104357.png",
     "attachments/Pasted image 20250502113030.png",
     "未命名 1.canvas",
     "attachments/Pasted image 20250502110040.png",
@@ -253,7 +257,6 @@
     "attachments/屏幕截图 2025-04-27 220740.png",
     "attachments/屏幕截图 2025-04-27 220714.png",
     "attachments/屏幕截图 2025-04-27 215909.png",
-    "attachments/1744777384123.jpg",
     "杂/看板/未命名.canvas",
     "1️⃣修心省身/3️⃣我有所感事/小感/attachments",
     "1️⃣修心省身/3️⃣我有所感事/小感/岂不快哉！",
