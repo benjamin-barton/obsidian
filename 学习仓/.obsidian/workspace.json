@@ -11,14 +11,17 @@
             "id": "38d9ade651c2b421",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "寻找最值.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 407,
+                  "y": 10,
+                  "zoom": -0.6830864914643341
+                }
               },
-              "icon": "lucide-file",
-              "title": "寻找最值"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -202,10 +205,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "38d9ade651c2b421",
+  "active": "0b6e0ac6ed0d1d22",
   "lastOpenFiles": [
-    "属性.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "寻找最值.md",
+    "属性.md",
     "attachments/屏幕截图 2025-03-29 121829.png",
     "attachments/屏幕截图 2025-03-29 144752.png",
     "attachments/Exported image 20250404144732-1.png",
@@ -216,11 +221,9 @@
     "attachments/Exported image 20250404144747-0.png",
     "attachments/Exported image 20250405170729-1.png",
     "attachments/Exported image 20250405170734-4.png",
-    "未命名 1.canvas",
     "极限.md",
     "Excalidraw/Drawing 2025-05-02 10.50.38.excalidraw.md",
     "杂/快捷键.md",
-    "未命名.canvas",
     "1️⃣修心省身/2️⃣chase/如何快速抽离.md",
     "1️⃣修心省身/2️⃣chase/学英语.md",
     "1️⃣修心省身/2️⃣chase/一步三算.md",
