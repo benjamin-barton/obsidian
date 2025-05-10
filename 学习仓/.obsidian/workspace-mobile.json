@@ -146,8 +146,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "插件不再活动"
         }
       },
       {
@@ -156,8 +156,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "插件不再活动"
         }
       }
     ],
@@ -165,7 +165,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -173,13 +172,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "788dfb9700d22733",
   "lastOpenFiles": [
-    "1️⃣修心省身/0️⃣当下之事/作序.md",
+    "2️⃣行万里路/1.日记/2025-05-10.md",
+    "模板/日记总结.md",
     "4️⃣不要迷茫/锦囊/支书.md",
+    "1️⃣修心省身/0️⃣当下之事/作序.md",
     "1️⃣修心省身/4️⃣人生捷径/记在心中/背下来.md",
     "1️⃣修心省身/4️⃣人生捷径/记在心中",
     "5️⃣化为己用/好文/未命名.md",
@@ -208,8 +209,6 @@
     "1️⃣修心省身/3️⃣我有所感事/小感/光荣与梦想.md",
     "4️⃣不要迷茫/锦囊/英语.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/原《如何生活》.md",
-    "1️⃣修心省身/3️⃣我有所感事/看世界/执着.md",
-    "1️⃣修心省身/3️⃣我有所感事/小感/与支书的最后纠缠.md",
     "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213607.png",
     "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213322.png",
     "杂/看板/未命名.canvas",
