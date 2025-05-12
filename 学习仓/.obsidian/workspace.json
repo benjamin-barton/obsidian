@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +203,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c097239ad5ecc693",
+  "active": "0b6e0ac6ed0d1d22",
   "lastOpenFiles": [
     "1️⃣修心省身/3️⃣我有所感事/小感/岂不快哉！/2024.12.22.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/0目录.md",
