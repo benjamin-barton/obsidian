@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1️⃣修心省身/3️⃣我有所感事/小感/0目录.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#支书课题",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,13 +203,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a5fe8426214f8c7f",
+  "active": "c097239ad5ecc693",
   "lastOpenFiles": [
+    "1️⃣修心省身/3️⃣我有所感事/小感/岂不快哉！/2024.12.22.md",
+    "1️⃣修心省身/3️⃣我有所感事/小感/0目录.md",
+    "1️⃣修心省身/3️⃣我有所感事/小感/2024.11.07.md",
+    "1️⃣修心省身/3️⃣我有所感事/小感/光荣与梦想.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/被‘专家’蒙蔽的学子.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/表演型人格.md",
-    "1️⃣修心省身/3️⃣我有所感事/小感/0目录.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/安逸.md",
-    "1️⃣修心省身/3️⃣我有所感事/小感/2024.11.07.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/attachments/Pasted image 20250426221742.png",
     "杂/极限.md",
     "杂/工具.md",
@@ -229,9 +231,7 @@
     "1️⃣修心省身/3️⃣我有所感事/小感/和summer的五百天.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/和段姐唱歌收到表扬.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/大话西游 苏乞儿.md",
-    "1️⃣修心省身/3️⃣我有所感事/小感/光荣与梦想.md",
     "1️⃣修心省身/1️⃣fight/飘.md",
-    "1️⃣修心省身/3️⃣我有所感事/小感/不要预支快感.md",
     "3️⃣读万卷书/2.学习/理工/attachments/2025-05-12 19-45_page_25.jpg",
     "3️⃣读万卷书/2.学习/理工/attachments/2025-05-12 19-45_page_24.jpg",
     "3️⃣读万卷书/2.学习/理工/attachments/2025-05-12 19-45_page_23.jpg",
