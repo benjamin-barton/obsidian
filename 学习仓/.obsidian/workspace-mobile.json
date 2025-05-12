@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AI说/英语/赞同.md",
+            "file": "1️⃣修心省身/3️⃣我有所感事/小感/莱农和莉拉.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,8 +163,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "插件不再活动"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -173,12 +173,12 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "插件不再活动"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +196,9 @@
   },
   "active": "cf5188663a066486",
   "lastOpenFiles": [
-    "4️⃣不要迷茫/锦囊妙计.md",
+    "2️⃣行万里路/1.日记/2025-05-09.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/莱农和莉拉.md",
+    "4️⃣不要迷茫/锦囊妙计.md",
     "4️⃣不要迷茫/锦囊/支书.md",
     "2️⃣行万里路/1.日记/2025-05-10.md",
     "模板/日记总结.md",
@@ -227,7 +228,6 @@
     "2️⃣行万里路/3.当务之事（行动）",
     "1️⃣修心省身/3️⃣我有所感事/看世界/佛法讨论.md",
     "1️⃣修心省身/3️⃣我有所感事/小感/光荣与梦想.md",
-    "4️⃣不要迷茫/锦囊/英语.md",
     "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213607.png",
     "4️⃣不要迷茫/锦囊/attachments/Pasted image 20250426213322.png",
     "杂/看板/未命名.canvas",
