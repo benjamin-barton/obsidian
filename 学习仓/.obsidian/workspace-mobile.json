@@ -10,15 +10,17 @@
           {
             "id": "788dfb9700d22733",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4️⃣不要迷茫/锦囊/支书.md",
+                "file": "4️⃣不要迷茫/锦囊妙计.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "支书"
+              "title": "锦囊妙计"
             }
           }
         ]
@@ -165,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:开始漫游笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -177,9 +180,9 @@
   },
   "active": "788dfb9700d22733",
   "lastOpenFiles": [
+    "4️⃣不要迷茫/锦囊/支书.md",
     "2️⃣行万里路/1.日记/2025-05-10.md",
     "模板/日记总结.md",
-    "4️⃣不要迷茫/锦囊/支书.md",
     "1️⃣修心省身/0️⃣当下之事/作序.md",
     "1️⃣修心省身/4️⃣人生捷径/记在心中/背下来.md",
     "1️⃣修心省身/4️⃣人生捷径/记在心中",
