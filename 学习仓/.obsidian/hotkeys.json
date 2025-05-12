@@ -165,5 +165,15 @@
       ],
       "key": "N"
     }
-  ]
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "quickadd:choice:a6550e9e-b4f3-42f3-91d8-9f12e71463ad": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:insert-templater": []
 }
