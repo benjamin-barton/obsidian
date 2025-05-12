@@ -1,11 +1,11 @@
 {
   "choices": [
     {
-      "id": "fddf86cd-3e69-408d-8579-6444e584bd1d",
-      "name": "默认",
+      "id": "a6550e9e-b4f3-42f3-91d8-9f12e71463ad",
+      "name": "default",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "模板/默认.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
