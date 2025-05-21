@@ -66,7 +66,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "人只有",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
