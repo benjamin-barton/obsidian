@@ -66,7 +66,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "心属于你的",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -103,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6a3baf16335f8b1e",
@@ -194,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c8eff1a82e2fe55",
+  "active": "223489a1f8f60788",
   "lastOpenFiles": [
     "1️⃣修心省身/3️⃣我有所感事/看世界/执着.md",
     "1️⃣修心省身/3️⃣我有所感事/看世界/感性.md",
