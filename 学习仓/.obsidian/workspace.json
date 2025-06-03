@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "爱乐之城"
             }
-          },
-          {
-            "id": "176ce203b2257afc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-25 11.36.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-25 11.36.12.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +203,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "176ce203b2257afc",
+  "active": "0b6e0ac6ed0d1d22",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-05-25 11.36.12.excalidraw.md",
     "Excalidraw/attachments/0e43b03316ade74efa0bde98f92fb27.jpg",
