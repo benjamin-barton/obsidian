@@ -66,7 +66,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#省身/和时间对话",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -103,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6a3baf16335f8b1e",
@@ -194,8 +194,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "223489a1f8f60788",
+  "active": "284f3f264c74cb04",
   "lastOpenFiles": [
+    "2️⃣行万里路/4.成就博物馆",
     "2️⃣行万里路/1.日记/2025-04-30.md",
     "2️⃣行万里路/1.日记/2025-06-09.md",
     "2️⃣行万里路/1.日记/2025-06-05.md",
@@ -221,7 +222,6 @@
     "2️⃣行万里路/1.日记/2025-06-04.md",
     "3️⃣读万卷书/2.学习/理工/高等数学/0目录.md",
     "3️⃣读万卷书/2.学习/理工/线性代数/0目录.md",
-    "3️⃣读万卷书/2.学习/理工/数学建模/层次分析法.md",
     "2️⃣行万里路/1.日记/attachments/IMG20250528072535.jpg",
     "2️⃣行万里路/1.日记/attachments",
     "3️⃣读万卷书/2.学习/英语/应用/attachments/mmexport1747797419388.jpg",
