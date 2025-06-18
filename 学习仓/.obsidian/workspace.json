@@ -11,26 +11,17 @@
             "id": "0a9462808abbdecf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2️⃣行万里路/1.日记/2025-06-18.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 728.9048674579561,
+                  "y": -115.43047910959017,
+                  "zoom": -1.0000000223517425
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-06-18"
-            }
-          },
-          {
-            "id": "fa4b79830b97898a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-18 20.29.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-18 20.29.12.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           },
           {
@@ -43,8 +34,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +216,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fa4b79830b97898a",
+  "active": "0a9462808abbdecf",
   "lastOpenFiles": [
     "2️⃣行万里路/1.日记/2025-06-18.md",
     "Excalidraw/Drawing 2025-06-18 20.29.12.excalidraw.md",
+    "未命名.canvas",
     "2️⃣行万里路/1.日记/2025-06-17.md",
     "2️⃣行万里路/1.日记/2025-06-15.md",
     "4️⃣不要迷茫/每日一句.md",
@@ -255,7 +246,6 @@
     "2️⃣行万里路/2.周末总结/28周 7.7-7.13.md",
     "2️⃣行万里路/2.周末总结/27周 6.30-7.6.md",
     "2️⃣行万里路/2.周末总结/未命名 2.md",
-    "2️⃣行万里路/2.周末总结/26周 6.23-6.29.md",
     "Excalidraw/attachments/0e43b03316ade74efa0bde98f92fb27.jpg",
     "Excalidraw/attachments",
     "3️⃣读万卷书/2.学习/英语/综合/好句",
