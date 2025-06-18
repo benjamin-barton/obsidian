@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"06b23d5463a46f98","x":-760,"y":20,"width":250,"height":60,"type":"text","text":"输入"},
-		{"id":"b98859c7202537a1","x":-115,"y":260,"width":250,"height":60,"type":"text","text":"jupyter（实践）"},
-		{"id":"3f24024a17b55009","x":500,"y":-200,"width":630,"height":580,"type":"text","text":"# obsidian"},
+		{"id":"06b23d5463a46f98","type":"text","text":"输入","x":-760,"y":20,"width":250,"height":60},
+		{"id":"b98859c7202537a1","type":"text","text":"jupyter（实践）","x":-115,"y":260,"width":250,"height":60},
+		{"id":"3f24024a17b55009","type":"text","text":"# obsidian","x":500,"y":-200,"width":630,"height":580},
 		{"id":"95a423d4b973b55f","type":"text","text":"obsidian日记A（有用的）","x":500,"y":-100,"width":250,"height":60},
-		{"id":"5ee1b57c2058cbea","x":500,"y":290,"width":250,"height":60,"type":"text","text":"obsidian日记B（有用的）"},
-		{"id":"25c75c94e3665737","x":-115,"y":-300,"width":250,"height":60,"type":"text","text":"此刻日记"},
-		{"id":"0e337dc6ea1fddaa","x":-115,"y":-130,"width":250,"height":60,"type":"text","text":"remnote"},
-		{"id":"c8b1f7c6dfeb1366","x":-115,"y":90,"width":250,"height":60,"type":"text","text":"微信qq"},
-		{"id":"c4033130ecfd548a","x":200,"y":-360,"width":250,"height":60,"type":"text","text":"手写总结"},
-		{"id":"2a21e9fc88b6f542","x":815,"y":5,"width":250,"height":230,"type":"text","text":"# 高层文章总结"},
-		{"id":"315507980a459493","x":815,"y":-520,"width":250,"height":60,"type":"text","text":"# onenote地图"}
+		{"id":"5ee1b57c2058cbea","type":"text","text":"obsidian日记B（有用的）","x":500,"y":290,"width":250,"height":60},
+		{"id":"0e337dc6ea1fddaa","type":"text","text":"remnote","x":-115,"y":-130,"width":250,"height":60},
+		{"id":"c8b1f7c6dfeb1366","type":"text","text":"微信qq","x":-115,"y":90,"width":250,"height":60},
+		{"id":"2a21e9fc88b6f542","type":"text","text":"# 高层文章总结","x":815,"y":5,"width":250,"height":230},
+		{"id":"25c75c94e3665737","type":"text","text":"此刻日记","x":-115,"y":-440,"width":250,"height":60},
+		{"id":"c4033130ecfd548a","type":"text","text":"手写总结","x":-115,"y":-250,"width":250,"height":50},
+		{"id":"315507980a459493","type":"text","text":"# onenote地图","x":690,"y":-380,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cda4550604ae508d","fromNode":"06b23d5463a46f98","fromSide":"right","toNode":"c8b1f7c6dfeb1366","toSide":"left","label":"文章"},
@@ -20,10 +20,11 @@
 		{"id":"e5eb06b8e75cffed","fromNode":"b98859c7202537a1","fromSide":"right","toNode":"5ee1b57c2058cbea","toSide":"left"},
 		{"id":"7800f3714f03736d","fromNode":"c8b1f7c6dfeb1366","fromSide":"right","toNode":"95a423d4b973b55f","toSide":"left"},
 		{"id":"1cc41029d4c803f9","fromNode":"25c75c94e3665737","fromSide":"right","toNode":"95a423d4b973b55f","toSide":"left"},
-		{"id":"5598fbb15a38077e","fromNode":"0e337dc6ea1fddaa","fromSide":"right","toNode":"95a423d4b973b55f","toSide":"left","color":"3","label":"电子"},
 		{"id":"8443787676accfdf","fromNode":"0e337dc6ea1fddaa","fromSide":"right","toNode":"c4033130ecfd548a","toSide":"right","label":"纸质"},
-		{"id":"446aa2ba45fab9b4","fromNode":"c4033130ecfd548a","fromSide":"left","toNode":"25c75c94e3665737","toSide":"top"},
 		{"id":"0c7f4be69ad24ba6","fromNode":"95a423d4b973b55f","fromSide":"right","toNode":"2a21e9fc88b6f542","toSide":"top"},
-		{"id":"3c027486297d645e","fromNode":"315507980a459493","fromSide":"bottom","toNode":"3f24024a17b55009","toSide":"top"}
+		{"id":"3c027486297d645e","fromNode":"315507980a459493","fromSide":"bottom","toNode":"3f24024a17b55009","toSide":"top"},
+		{"id":"33347166618ec2cd","fromNode":"c4033130ecfd548a","fromSide":"top","toNode":"25c75c94e3665737","toSide":"bottom"},
+		{"id":"2a86d6a6239e72e7","fromNode":"0e337dc6ea1fddaa","fromSide":"right","toNode":"95a423d4b973b55f","toSide":"left","label":"电子A"},
+		{"id":"9151dae42b015b4f","fromNode":"0e337dc6ea1fddaa","fromSide":"right","toNode":"5ee1b57c2058cbea","toSide":"left","label":"电子B"}
 	]
 }
