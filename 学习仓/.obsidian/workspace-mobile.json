@@ -11,17 +11,14 @@
             "id": "7c8eff1a82e2fe55",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 825,
-                  "y": 510,
-                  "zoom": -3.27591755244703
-                }
+                "file": "模板/日记总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "日记总结"
             }
           }
         ]
@@ -182,6 +179,8 @@
   },
   "active": "7c8eff1a82e2fe55",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Excalidraw/Drawing 2025-06-18 21.24.25.excalidraw.md",
     "模板/日记总结.md",
     "2️⃣行万里路/1.日记/2025-06-23.md",
     "2️⃣行万里路/1.日记/2025-06-24.md",
@@ -195,10 +194,8 @@
     "2️⃣行万里路/1.日记/2025-06-17.md",
     "2️⃣行万里路/1.日记/2025-06-16.md",
     "2️⃣行万里路/1.日记/2025-06-15.md",
-    "Excalidraw/Drawing 2025-06-18 21.24.25.excalidraw.md",
     "2️⃣行万里路/1.日记/2025-06-14.md",
     "conflict-files-obsidian-git.md",
-    "未命名.canvas",
     "3️⃣读万卷书/1. 杂/书单.md",
     "4️⃣不要迷茫/存档.md",
     "4️⃣不要迷茫/每日一句.md",
@@ -210,7 +207,6 @@
     "3️⃣读万卷书/2.学习/理工/数学建模与算法",
     "3️⃣读万卷书/2.学习/理工/高等数学/积分变换表.md",
     "3️⃣读万卷书/2.学习/理工/自动控制/傅里叶公式推导.md",
-    "2️⃣行万里路/2.周末总结/24周 6.9-6.15.md",
     "2️⃣行万里路/4.成就博物馆",
     "2️⃣行万里路/1.日记/attachments/IMG20250528072535.jpg",
     "2️⃣行万里路/1.日记/attachments",
