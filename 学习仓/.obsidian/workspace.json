@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ada45c3d9a30fb4e",
+        "id": "3fb12eafc828090c",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4dfdd488dfe304",
+            "id": "b68113caa05dcc3b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-18 21.24.25.excalidraw.md"
+                "file": "杂/模板/周末总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-18 21.24.25.excalidraw"
-            }
-          },
-          {
-            "id": "dedc63b774d35661",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "周末总结"
             }
           }
         ]
@@ -86,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50585556030273,
-    "collapsed": true
+    "width": 218.50585556030273
   },
   "right": {
     "id": "e205a8b87630176c",
@@ -137,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -151,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3️⃣读万卷书/2.学习/理工/数学建模/排队论.md",
+                "file": "杂/模板/周末总结.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "排队论 的大纲"
+              "title": "周末总结 的大纲"
             }
           },
           {
@@ -191,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,46 +202,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8a4dfdd488dfe304",
+  "active": "0b6e0ac6ed0d1d22",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-06-18 21.24.25.excalidraw.md",
+    "新建文件夹",
+    "杂/模板/日记总结.md",
+    "杂/模板/默认.md",
+    "杂/快捷键.md",
+    "杂/模板/收藏模板.md",
+    "杂/模板/复习.md",
+    "杂/模板/周末总结.md",
+    "杂/模板",
+    "杂/暂存/极限.md",
+    "杂/未命名.md",
     "未命名.canvas",
+    "杂/暂存",
+    "杂/新建文件夹",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2025-06-18 21.24.25.excalidraw.md",
+    "2️⃣行万里路/1.日记/2025-06-27.md",
+    "2️⃣行万里路/1.日记/2025-06-26.md",
+    "2️⃣行万里路/1.日记/2025-06-25.md",
+    "2️⃣行万里路/1.日记/2025-06-24.md",
+    "2️⃣行万里路/1.日记/2025-06-23.md",
+    "2️⃣行万里路/1.日记/2025-06-22.md",
+    "2️⃣行万里路/1.日记/2025-06-21.md",
+    "2️⃣行万里路/1.日记/2025-06-20.md",
+    "2️⃣行万里路/1.日记/2025-06-19.md",
     "2️⃣行万里路/1.日记/2025-06-17.md",
     "2️⃣行万里路/1.日记/2025-06-16.md",
     "2️⃣行万里路/1.日记/2025-06-18.md",
     "2️⃣行万里路/1.日记/2025-06-15.md",
-    "conflict-files-obsidian-git.md",
     "3️⃣读万卷书/1. 杂/书单.md",
     "3️⃣读万卷书/2.学习/理工/未命名.md",
     "3️⃣读万卷书/2.学习/理工/人工智能理论",
-    "Excalidraw/Drawing 2025-06-18 20.29.12.excalidraw.md",
-    "4️⃣不要迷茫/每日一句.md",
-    "4️⃣不要迷茫/存档.md",
-    "2️⃣行万里路/1.日记/2025-06-14.md",
-    "2️⃣行万里路/1.日记/2025-06-13.md",
-    "3️⃣读万卷书/2.学习/理工/数学建模与算法/数学建模类/模糊数学.md",
-    "2️⃣行万里路/1.日记/2025-06-12.md",
-    "2️⃣行万里路/1.日记/2025-06-11.md",
-    "2️⃣行万里路/1.日记/2025-06-10.md",
     "3️⃣读万卷书/2.学习/理工/数学建模与算法/数据学习类",
-    "3️⃣读万卷书/2.学习/理工/数学建模与算法/未命名.md",
     "3️⃣读万卷书/2.学习/理工/数学建模与算法/数学建模类",
-    "2️⃣行万里路/1.日记/2025-06-09.md",
-    "模板/日记总结.md",
-    "2️⃣行万里路/1.日记/2025-06-07.md",
-    "模板/周末总结.md",
-    "2️⃣行万里路/2.周末总结/23周 6.2-6.8.md",
-    "3️⃣读万卷书/2.学习/英语/记录.md",
-    "2️⃣行万里路/1.日记/2025-06-06.md",
     "Excalidraw/attachments/0e43b03316ade74efa0bde98f92fb27.jpg",
     "Excalidraw/attachments",
     "3️⃣读万卷书/2.学习/英语/综合/好句",
     "3️⃣读万卷书/2.学习/英语/应用/attachments/mmexport1747797419388.jpg",
     "3️⃣读万卷书/2.学习/英语/应用/attachments",
     "3️⃣读万卷书/2.学习/英语/应用",
-    "2️⃣行万里路/3.事上练",
-    "1️⃣修心省身/4️⃣过去教训&人生捷径/未归档",
-    "1️⃣修心省身/3️⃣我有所感事/小感/attachments/屏幕录制 2025-05-14 235358.mp4",
     "attachments/Pasted image 20250514210213.png",
     "attachments/Pasted image 20250514210202.png",
     "attachments/Pasted image 20250514210155.png",
