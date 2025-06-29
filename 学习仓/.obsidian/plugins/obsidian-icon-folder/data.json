@@ -38,18 +38,6 @@
     "iconName": "LiAtSign",
     "iconColor": "#5a65b8"
   },
-  "AI说": {
-    "iconName": "LiApple",
-    "iconColor": "#1ea5c7"
-  },
-  "attachments": {
-    "iconName": "LiAtom",
-    "iconColor": "#ffe626"
-  },
-  "Excalidraw": {
-    "iconName": "LiAlbum",
-    "iconColor": "#ff6647"
-  },
   "杂": {
     "iconName": "LiAward",
     "iconColor": "#60d63c"
