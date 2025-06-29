@@ -24,7 +24,6 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "链接": "text",
-    "hahadate": "date",
-    "key word": "multitext"
+    "hahadate": "date"
   }
 }
