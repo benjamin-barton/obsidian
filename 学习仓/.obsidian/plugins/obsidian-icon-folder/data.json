@@ -34,6 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
+  "模板": {
+    "iconName": "LiAtSign",
+    "iconColor": "#5a65b8"
+  },
   "AI说": {
     "iconName": "LiApple",
     "iconColor": "#1ea5c7"
@@ -46,7 +50,7 @@
     "iconName": "LiAlbum",
     "iconColor": "#ff6647"
   },
-  "百宝箱": {
+  "杂": {
     "iconName": "LiAward",
     "iconColor": "#60d63c"
   }

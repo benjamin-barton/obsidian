@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb12eafc828090c",
+        "id": "ada45c3d9a30fb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b68113caa05dcc3b",
+            "id": "8a4dfdd488dfe304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3记录层/2.周末总结/26周 6.23-6.29.md",
+                "file": "2️⃣行万里路/1.日记/2025-06-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26周 6.23-6.29"
+              "title": "2025-06-15"
+            }
+          },
+          {
+            "id": "0b0dc67156e15306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "dedc63b774d35661",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "作息",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +152,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3记录层/2.周末总结/26周 6.23-6.29.md",
+                "file": "3️⃣读万卷书/2.学习/理工/数学建模/排队论.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "26周 6.23-6.29 的大纲"
+              "title": "排队论 的大纲"
             }
           },
           {
@@ -157,8 +181,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -182,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,63 +227,60 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b68113caa05dcc3b",
+  "active": "8a4dfdd488dfe304",
   "lastOpenFiles": [
-    "百宝箱/模板/文章.md",
-    "百宝箱/模板/周末总结.md",
-    "百宝箱/模板/日记总结.md",
-    "3记录层/1.日记/2025-04-16.md",
-    "百宝箱/模板/收藏模板.md",
-    "百宝箱/模板/复习.md",
-    "3记录层/1.日记/2025-05-12.md",
-    "1沉淀层(情感)/所感事/旅游前警醒.md",
-    "1沉淀层(情感)/所感事/光荣与梦想.md",
-    "1沉淀层(情感)/所感事/原《如何生活》.md",
-    "1沉淀层(情感)/所感事/不要预支快感.md",
-    "百宝箱/看板/知识体系草稿.canvas",
-    "3记录层/1.日记/attachments/IMG20250528072535.jpg",
-    "3记录层/1.日记/attachments",
-    "3记录层/1.日记/2025-06-27.md",
-    "3记录层/1.日记/2025-06-25.md",
-    "3记录层/1.日记/2025-06-26.md",
-    "3记录层/1.日记/2025-06-24.md",
-    "3记录层/1.日记/2025-06-23.md",
-    "3记录层/1.日记/2025-06-22.md",
-    "3记录层/1.日记/2025-06-21.md",
-    "3记录层/1.日记/2025-06-20.md",
-    "3记录层/1.日记/2025-06-19.md",
-    "3记录层/1.日记/2025-06-18.md",
-    "3记录层/1.日记/2025-06-14.md",
-    "3记录层/1.日记/2025-06-17.md",
-    "3记录层/1.日记/2025-06-16.md",
-    "3记录层/1.日记/2025-06-15.md",
-    "3记录层/1.日记/2025-06-09.md",
-    "3记录层/1.日记",
-    "3记录层/2.周末总结",
-    "3记录层",
-    "2沉淀层(学习)/英语/应用/attachments/mmexport1747797419388.jpg",
-    "2沉淀层(学习)/英语/应用/attachments",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_9.jpg",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_8.jpg",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_6.jpg",
-    "2沉淀层(学习)/英语/知识点",
-    "2沉淀层(学习)/英语/应用",
-    "2沉淀层(学习)/英语/听力",
-    "2沉淀层(学习)/数学建模与算法/数据学习类",
-    "2沉淀层(学习)/数学建模与算法/数学建模类",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_7.jpg",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_4.jpg",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_3.jpg",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_5.jpg",
-    "2沉淀层(学习)/attachments/2025-05-12 19-45_page_25.jpg",
-    "1沉淀层(情感)/感悟/0目录.canvas",
-    "1.沉淀层(情感)/感悟/0目录.canvas",
-    "百宝箱/看板/4.26思考.canvas",
-    "百宝箱/看板/未命名 1.canvas",
-    "百宝箱/看板/未命名.canvas",
-    "沉淀层(情感)/感悟/0目录.canvas",
-    "沉淀层(情感)/4️⃣过去教训&人生捷径/0目录.canvas",
-    "百宝箱/看板/碎片信息应对方案.canvas",
-    "1️⃣修心省身/4️⃣过去教训&人生捷径/0目录.canvas"
+    "2️⃣行万里路/1.日记/2025-06-16.md",
+    "2️⃣行万里路/1.日记/2025-06-18.md",
+    "2️⃣行万里路/1.日记/2025-06-17.md",
+    "Excalidraw/Drawing 2025-06-18 21.24.25.excalidraw.md",
+    "未命名.canvas",
+    "conflict-files-obsidian-git.md",
+    "3️⃣读万卷书/1. 杂/书单.md",
+    "3️⃣读万卷书/2.学习/理工/未命名.md",
+    "3️⃣读万卷书/2.学习/理工/人工智能理论",
+    "Excalidraw/Drawing 2025-06-18 20.29.12.excalidraw.md",
+    "2️⃣行万里路/1.日记/2025-06-15.md",
+    "4️⃣不要迷茫/每日一句.md",
+    "4️⃣不要迷茫/存档.md",
+    "2️⃣行万里路/1.日记/2025-06-14.md",
+    "2️⃣行万里路/1.日记/2025-06-13.md",
+    "3️⃣读万卷书/2.学习/理工/数学建模与算法/数学建模类/模糊数学.md",
+    "2️⃣行万里路/1.日记/2025-06-12.md",
+    "2️⃣行万里路/1.日记/2025-06-11.md",
+    "2️⃣行万里路/1.日记/2025-06-10.md",
+    "3️⃣读万卷书/2.学习/理工/数学建模与算法/数据学习类",
+    "3️⃣读万卷书/2.学习/理工/数学建模与算法/未命名.md",
+    "3️⃣读万卷书/2.学习/理工/数学建模与算法/数学建模类",
+    "2️⃣行万里路/1.日记/2025-06-09.md",
+    "模板/日记总结.md",
+    "2️⃣行万里路/1.日记/2025-06-07.md",
+    "模板/周末总结.md",
+    "2️⃣行万里路/2.周末总结/23周 6.2-6.8.md",
+    "3️⃣读万卷书/2.学习/英语/记录.md",
+    "2️⃣行万里路/1.日记/2025-06-06.md",
+    "Excalidraw/attachments/0e43b03316ade74efa0bde98f92fb27.jpg",
+    "Excalidraw/attachments",
+    "3️⃣读万卷书/2.学习/英语/综合/好句",
+    "3️⃣读万卷书/2.学习/英语/应用/attachments/mmexport1747797419388.jpg",
+    "3️⃣读万卷书/2.学习/英语/应用/attachments",
+    "3️⃣读万卷书/2.学习/英语/应用",
+    "2️⃣行万里路/3.事上练",
+    "1️⃣修心省身/4️⃣过去教训&人生捷径/未归档",
+    "1️⃣修心省身/3️⃣我有所感事/小感/attachments/屏幕录制 2025-05-14 235358.mp4",
+    "attachments/Pasted image 20250514210213.png",
+    "attachments/Pasted image 20250514210202.png",
+    "attachments/Pasted image 20250514210155.png",
+    "1️⃣修心省身/4️⃣过去教训&人生捷径/0目录.canvas",
+    "3️⃣读万卷书/2.学习/英语/此刻日记/attachments/dd0a6acfee604ebf905269cc472da591_4.jpg",
+    "3️⃣读万卷书/2.学习/英语/此刻日记/attachments/dd0a6acfee604ebf905269cc472da591_3.jpg",
+    "3️⃣读万卷书/2.学习/英语/此刻日记/attachments/dd0a6acfee604ebf905269cc472da591_2.jpg",
+    "3️⃣读万卷书/2.学习/英语/此刻日记/attachments/a377318a8ead4382a2125372426d4c7f_4.jpg",
+    "3️⃣读万卷书/2.学习/英语/此刻日记/attachments/dd0a6acfee604ebf905269cc472da591_1.jpg",
+    "杂/看板/未命名 1.canvas",
+    "未命名 1.canvas",
+    "杂/看板/未命名.canvas",
+    "杂/看板/4.26思考.canvas",
+    "5️⃣化为己用/碎片信息应对方案.canvas",
+    "化为己用/碎片信息应对方案.canvas"
   ]
 }

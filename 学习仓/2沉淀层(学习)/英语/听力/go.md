@@ -1,1 +1,0 @@
-There's a chance we're not going to like what we find.
