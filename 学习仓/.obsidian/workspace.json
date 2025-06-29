@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1沉淀层(情感)/所感事/旅游前警醒.md",
+                "file": "3记录层/1.日记/2025-04-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "旅游前警醒"
+              "title": "2025-04-16"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#省身/和时间对话",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1沉淀层(情感)/所感事/旅游前警醒.md",
+                "file": "3记录层/1.日记/2025-04-16.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "旅游前警醒 的大纲"
+              "title": "2025-04-16 的大纲"
             }
           },
           {
@@ -187,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +205,8 @@
   },
   "active": "b68113caa05dcc3b",
   "lastOpenFiles": [
+    "3记录层/1.日记/2025-05-12.md",
+    "1沉淀层(情感)/所感事/旅游前警醒.md",
     "1沉淀层(情感)/所感事/光荣与梦想.md",
     "1沉淀层(情感)/所感事/原《如何生活》.md",
     "1沉淀层(情感)/所感事/不要预支快感.md",
@@ -232,8 +234,6 @@
     "3记录层/1.日记/2025-06-10.md",
     "3记录层/1.日记/2025-06-06.md",
     "3记录层/1.日记/2025-06-07.md",
-    "3记录层/1.日记/2025-06-05.md",
-    "3记录层/1.日记/2025-06-02.md",
     "3记录层/1.日记",
     "3记录层/2.周末总结",
     "3记录层",
