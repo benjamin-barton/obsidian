@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025已过三分之二"
             }
+          },
+          {
+            "id": "3360cb5688c76813",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,8 +180,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -191,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "improved-random-note:Open improved random note": false,
       "templater-obsidian:Templater": false,
       "graph:查看关系图谱": false,
@@ -201,7 +215,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8a4dfdd488dfe304",
+  "active": "3360cb5688c76813",
   "lastOpenFiles": [
     "1沉淀层(情感)/所感事/2024.11.07.md",
     "1沉淀层(情感)/所感事/2024.12.22.md",
