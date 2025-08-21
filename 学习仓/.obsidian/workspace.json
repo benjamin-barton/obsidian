@@ -11,30 +11,16 @@
             "id": "8a4dfdd488dfe304",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1沉淀层(情感)/所感事/2025已过三分之二.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "2025已过三分之二"
-            }
-          },
-          {
-            "id": "3360cb5688c76813",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +201,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3360cb5688c76813",
+  "active": "8a4dfdd488dfe304",
   "lastOpenFiles": [
+    "1沉淀层(情感)/所感事/2025已过三分之二.md",
+    "未命名.base",
     "1沉淀层(情感)/所感事/2024.11.07.md",
     "1沉淀层(情感)/所感事/2024.12.22.md",
-    "1沉淀层(情感)/所感事/2025已过三分之二.md",
     "Excalidraw/Drawing 2025-08-17 18.47.41.excalidraw.md",
     "1沉淀层(情感)/所感事/光荣与梦想.md",
     "1沉淀层(情感)/所感事/大话西游 苏乞儿.md",
@@ -242,7 +229,6 @@
     "3记录层/2.周末总结/第16周 4.14-4.20.md",
     "3记录层/2.周末总结/第15周 4.7-4.13.md",
     "3记录层/2.周末总结/第32周 8.4 – 8.10.md",
-    "3记录层/2.周末总结/第30周 7.21 – 7.27.md",
     "未命名",
     "2沉淀层(学习)/高等数学/attachments/1751898490027.jpeg",
     "2沉淀层(学习)/高等数学/attachments",
@@ -255,7 +241,6 @@
     "1沉淀层(情感)/看世界",
     "1沉淀层(情感)/所感事/attachments/Pasted image 20250426221742.png",
     "1沉淀层(情感)/所感事/attachments",
-    "1沉淀层(情感)/所感事",
     "1沉淀层(情感)/感悟/0目录.canvas",
     "百宝箱/看板/碎片信息应对方案.canvas",
     "百宝箱/看板/知识体系草稿.canvas",
