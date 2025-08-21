@@ -1,3 +1,9 @@
 views:
-  - type: table
+  - type: cards
     name: 表格
+    filters:
+      and:
+        - file.inFolder("2沉淀层(学习)/高等数学/笔记本")
+    image: note.image
+    imageAspectRatio: 1.55
+    cardSize: 180
