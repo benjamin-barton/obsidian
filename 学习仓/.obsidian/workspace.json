@@ -14,7 +14,7 @@
               "type": "bases",
               "state": {
                 "file": "未命名.base",
-                "viewName": "表格"
+                "viewName": "数学"
               },
               "icon": "lucide-layout-grid",
               "title": "未命名"
@@ -203,7 +203,7 @@
   },
   "active": "8a4dfdd488dfe304",
   "lastOpenFiles": [
-    "2沉淀层(学习)/高等数学/笔记本/未命名.md",
+    "2沉淀层(学习)/高等数学/笔记本/高数卷一.md",
     "未命名.base",
     "Untitled.md",
     "3记录层/1.日记/2025-08-19.md",
