@@ -11,6 +11,7 @@
     "editor:follow-link",
     "editor:undo",
     "editor:redo",
+    "editor:insert-footnote",
     "insert-current-date",
     "editor:toggle-checklist-status",
     "editor:insert-horizontal-rule",
@@ -44,5 +45,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "readableLineLength": false,
+  "showInlineTitle": false
 }
