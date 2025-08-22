@@ -53,9 +53,9 @@ views:
     filters:
       and:
         - file.inFolder("3记录层/影视库")
-    cardSize: 210
+    cardSize: 230
     image: note.image
-    imageAspectRatio: 1.25
+    imageAspectRatio: 1.35
   - type: cards
     name: 理工
     filters:
