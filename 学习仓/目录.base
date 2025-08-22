@@ -36,7 +36,14 @@ views:
     filters:
       and:
         - file.inFolder("1沉淀层(情感)/感悟")
+        - '!file.hasProperty("attribut")'
     cardSize: 300
     imageAspectRatio: 1.2
   - type: cards
     name: 高频词
+    filters:
+      and:
+        - file.inFolder("1沉淀层(情感)/高频词")
+        - '!file.hasProperty("attribut")'
+  - type: table
+    name: 影视库

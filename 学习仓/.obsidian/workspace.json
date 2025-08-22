@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2沉淀层(学习)/高等数学/笔记本/高数卷一.md",
+                "file": "2沉淀层(学习)/英语/笔记本/单词本2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高数卷一"
+              "title": "单词本2"
             }
           },
           {
-            "id": "c0ad601b2585bd45",
+            "id": "57e7475bd461c838",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
                 "file": "目录.base",
-                "viewName": "高频词"
+                "viewName": "英语"
               },
               "icon": "lucide-layout-grid",
               "title": "目录"
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "李佳",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,18 +213,35 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "c0ad601b2585bd45",
+  "active": "57e7475bd461c838",
   "lastOpenFiles": [
-    "1沉淀层(情感)/感悟/Untitled.md",
+    "2沉淀层(学习)/英语/笔记本/单词本2.md",
     "目录.base",
-    "2沉淀层(学习)/英语/笔记本/未命名 1.md",
-    "1沉淀层(情感)/感悟/顺境思无常，逆境思因果.md",
-    "2沉淀层(学习)/英语/笔记本/未命名 4.md",
+    "2沉淀层(学习)/英语/笔记本/Untitled 1.md",
+    "2沉淀层(学习)/英语/笔记本/Untitled.md",
     "2沉淀层(学习)/英语/笔记本/未命名 3.md",
-    "2沉淀层(学习)/英语/笔记本/未命名 2.md",
+    "2沉淀层(学习)/英语/笔记本/未命名 4.md",
+    "2沉淀层(学习)/英语/笔记本/未命名 1.md",
+    "2沉淀层(学习)/高等数学/笔记本/高数卷一.md",
+    "1沉淀层(情感)/感悟/独立自主，我只有我自己.md",
+    "1沉淀层(情感)/感悟/记在心中/牢记.md",
+    "1沉淀层(情感)/感悟/1作序.md",
+    "未命名.md",
+    "百宝箱/看板/4.26思考.canvas",
+    "百宝箱/看板/知识体系草稿.canvas",
+    "百宝箱/看板/碎片信息应对方案.canvas",
+    "1沉淀层(情感)/所感事/0目录.md",
+    "1沉淀层(情感)/高频词/fight/被外界影响.md",
+    "2沉淀层(学习)/高等数学/0目录.md",
+    "1沉淀层(情感)/高频词/当下事/作序.md",
+    "百宝箱/模板/bases.md",
+    "Untitled.md",
+    "1沉淀层(情感)/感悟/Untitled.md",
+    "1沉淀层(情感)/感悟/顺境思无常，逆境思因果.md",
     "2沉淀层(学习)/英语/笔记本/未命名.md",
     "2沉淀层(学习)/英语/笔记本",
     "2沉淀层(学习)/线性代数/笔记本/线性代数.md",
@@ -233,34 +250,18 @@
     "2沉淀层(学习)/高等数学/笔记本/高数卷四.md",
     "2沉淀层(学习)/高等数学/笔记本/高数卷三.md",
     "2沉淀层(学习)/高等数学/笔记本/高数卷二.md",
-    "3记录层/影视库/this is us.md",
-    "2沉淀层(学习)/高等数学/笔记本/高数卷一.md",
-    "3记录层/书库/小巷人家.md",
-    "百宝箱/模板/bases.md",
-    "未命名.md",
-    "Untitled.md",
     "2沉淀层(学习)/概率论/笔记本",
-    "2沉淀层(学习)/概率论/未命名.md",
     "2沉淀层(学习)/高等数学/资料",
     "2沉淀层(学习)/概率论/资料",
     "百宝箱/不要迷茫/锦囊/attachments/Pasted image 20250426213134.png",
-    "百宝箱/不要迷茫/锦囊/不想学习.md",
     "3记录层/影视库",
     "3记录层/书库",
-    "百宝箱/模板/文章.md",
-    "百宝箱/模板/日记总结.md",
-    "百宝箱/模板/收藏模板.md",
-    "百宝箱/模板/周末总结.md",
-    "3记录层/1.日记/2025-08-19.md",
     "2沉淀层(学习)/高等数学/attachments/1751898490027.jpeg",
     "2沉淀层(学习)/高等数学/笔记本",
     "未命名",
     "1沉淀层(情感)/看世界/attachments/Camera_XHS_17452433444311040g00831e09i3be0c3041fpaqm6hkblgha7ho0.jpg",
     "1沉淀层(情感)/所感事/attachments/Pasted image 20250426221742.png",
     "1沉淀层(情感)/感悟/0目录.canvas",
-    "百宝箱/看板/碎片信息应对方案.canvas",
-    "百宝箱/看板/知识体系草稿.canvas",
-    "百宝箱/看板/4.26思考.canvas",
     "百宝箱/不要迷茫/锦囊/attachments/Pasted image 20250426213607.png",
     "百宝箱/不要迷茫/锦囊/attachments/Pasted image 20250426213353.png",
     "百宝箱/不要迷茫/锦囊/attachments/Pasted image 20250426213322.png",
