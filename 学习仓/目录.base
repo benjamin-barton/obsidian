@@ -18,6 +18,9 @@ views:
     filters:
       and:
         - file.inFolder("2沉淀层(学习)/英语/笔记本")
+    order:
+      - file.name
+      - introduction
     cardSize: 220
     image: note.image
     imageAspectRatio: 1.4
@@ -45,5 +48,16 @@ views:
       and:
         - file.inFolder("1沉淀层(情感)/高频词")
         - '!file.hasProperty("attribut")'
-  - type: table
+  - type: cards
     name: 影视库
+    filters:
+      and:
+        - file.inFolder("3记录层/影视库")
+    cardSize: 210
+    image: note.image
+    imageAspectRatio: 1.25
+  - type: cards
+    name: 理工
+    filters:
+      and:
+        - file.inFolder("2沉淀层(学习)/自动控制/资源库")
