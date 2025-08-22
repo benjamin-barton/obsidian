@@ -1,0 +1,27 @@
+views:
+  - type: cards
+    name: 数学
+    filters:
+      or:
+        - file.inFolder("2沉淀层(学习)/高等数学/笔记本")
+        - file.inFolder("2沉淀层(学习)/概率论/笔记本")
+        - file.inFolder("2沉淀层(学习)/线性代数/笔记本")
+    order:
+      - file.name
+      - introduction
+    image: note.image
+    imageAspectRatio: 1.3
+    cardSize: 210
+    imageFit: ""
+  - type: cards
+    name: 英语
+  - type: cards
+    name: 书库
+    filters:
+      and:
+        - file.inFolder("3记录层/书库")
+    order:
+      - file.name
+    imageAspectRatio: 1.35
+    image: note.image
+    cardSize: 220
