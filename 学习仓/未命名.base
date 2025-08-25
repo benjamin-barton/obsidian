@@ -1,5 +1,13 @@
+formulas:
+  未命名: ""
 views:
   - type: cards
     name: 表格
-    cardSize: 800
+    filters:
+      and:
+        - file.hasTag("星标")
+    order:
+      - file.name
     imageAspectRatio: 2.5
+    cardSize: 800
+    image: note.tags
