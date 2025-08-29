@@ -1,0 +1,8 @@
+---
+banner: "![[Pasted image 20250426213607.png]]"
+---
+views:
+  - type: cards
+    name: 表格
+    cardSize: 800
+    imageAspectRatio: 2.5
