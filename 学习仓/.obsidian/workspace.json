@@ -25,13 +25,14 @@
             "id": "57e7475bd461c838",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "目录.base",
-                "viewName": "数学"
+                "file": "2沉淀层(学习)/高等数学/笔记本/高数卷二.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "目录"
+              "icon": "lucide-file",
+              "title": "高数卷二"
             }
           }
         ],
@@ -220,8 +221,8 @@
   },
   "active": "57e7475bd461c838",
   "lastOpenFiles": [
-    "3记录层/影视库/潜伏.md",
     "目录.base",
+    "3记录层/影视库/潜伏.md",
     "3记录层/书库/把时间当作朋友.md",
     "2沉淀层(学习)/自动控制/资源库/笔记本.md",
     "百宝箱/模板/bases.md",
